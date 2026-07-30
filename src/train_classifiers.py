@@ -1,3 +1,4 @@
+﻿from pathlib import Path
 import os
 import joblib
 import pandas as pd
@@ -11,10 +12,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 print("Program started")
 
-folder_path = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent\data"
-)
+folder_path = Path(__file__).resolve().parents[1] / "data"
 
 file_path = os.path.join(
     folder_path,
@@ -149,10 +147,7 @@ print(
 
 
 # Save model
-model_folder = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent\models"
-)
+model_folder = Path(__file__).resolve().parents[1] / "models"
 
 os.makedirs(
     model_folder,
@@ -185,11 +180,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 print("Program started")
 
-data_path = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent\data"
-    r"\complaints_nlp_clean.csv"
-)
+data_path = Path(__file__).resolve().parents[1] / "data" / "complaints_nlp_clean.csv"
 
 print("Loading dataset...")
 
@@ -320,10 +311,7 @@ print(
 
 
 # Save model
-model_folder = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent\models"
-)
+model_folder = Path(__file__).resolve().parents[1] / "models"
 
 os.makedirs(
     model_folder,
@@ -364,11 +352,7 @@ from sklearn.metrics import (
 
 print("Program started")
 
-data_path = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent\data"
-    r"\complaints_nlp_clean.csv"
-)
+data_path = Path(__file__).resolve().parents[1] / "data" / "complaints_nlp_clean.csv"
 
 print("Loading dataset...")
 
@@ -570,10 +554,7 @@ print(
 
 
 # Save the model
-model_folder = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent\models"
-)
+model_folder = Path(__file__).resolve().parents[1] / "models"
 
 os.makedirs(
     model_folder,
@@ -592,3 +573,5 @@ joblib.dump(
 
 print("\nModel saved to:")
 print(model_path)
+
+

@@ -1,3 +1,4 @@
+from pathlib import Path
 import os
 
 import joblib
@@ -18,10 +19,7 @@ st.set_page_config(
 # --------------------------------------------------
 # Project paths
 # --------------------------------------------------
-project_folder = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent"
-)
+project_folder = Path(__file__).resolve().parents[2]
 
 model_folder = os.path.join(
     project_folder,

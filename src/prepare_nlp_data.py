@@ -1,9 +1,10 @@
+from pathlib import Path
 import os
 import pandas as pd
 
 print("Program started")
 
-folder_path = r"C:\Users\User\OneDrive\DS_Project\ComplaintsIntelligent\data"
+folder_path = Path(__file__).resolve().parents[1] / "data"
 file_path = os.path.join(folder_path, "complaints_sample.csv")
 
 print("Loading sample dataset...")

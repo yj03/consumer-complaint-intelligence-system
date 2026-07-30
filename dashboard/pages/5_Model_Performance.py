@@ -1,3 +1,4 @@
+from pathlib import Path
 import os
 
 import pandas as pd
@@ -19,10 +20,7 @@ st.set_page_config(
 # --------------------------------------------------
 # Project paths
 # --------------------------------------------------
-project_folder = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent"
-)
+project_folder = Path(__file__).resolve().parents[2]
 
 results_folder = os.path.join(
     project_folder,

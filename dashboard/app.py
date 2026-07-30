@@ -1,3 +1,4 @@
+from pathlib import Path
 import os
 import pandas as pd
 import plotly.express as px
@@ -17,10 +18,7 @@ st.set_page_config(
 # ---------------------------------
 # File paths
 # ---------------------------------
-project_folder = (
-    r"C:\Users\User\OneDrive\DS_Project"
-    r"\ComplaintsIntelligent"
-)
+project_folder = Path(__file__).resolve().parents[1]
 
 risk_score_path = os.path.join(
     project_folder,
