@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Large raw datasets
+data/complaints.csv
+data/complaints_sample.csv
+data/complaints_nlp_clean.csv
+data/complaints_with_topics.csv
+data/complaints_with_improved_topics.csv
+data/complaints_with_named_topics.csv
+
+# Generated model files
+models/*.pkl
+
+# Generated reports and figures
+reports/figures/*.png
+
+# Temporary files
+*.tmp
+*.log
+
+# Development scripts
+/archive/

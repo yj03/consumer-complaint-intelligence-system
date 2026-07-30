@@ -1,0 +1,4 @@
+Model,Test records,Number of classes,Accuracy,Macro F1,Weighted F1,Positive precision,Positive recall,Positive F1,PR-AUC,ROC-AUC,Decision threshold
+Product classifier,8751,9,0.8481,0.7273,0.8548,,,,,,
+Issue classifier,7463,17,0.6117,0.5796,0.6213,,,,,,
+Untimely-response classifier,8795,2,0.9746,,,0.1404,0.24,0.1771,0.0846,0.8493,0.7

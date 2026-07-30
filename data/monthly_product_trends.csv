@@ -1,0 +1,1234 @@
+Month,Product,Complaint count,Previous 6-month average,Percentage growth,Trend status
+2012-03-01,Checking or savings account,16,,,Insufficient history
+2012-04-01,Checking or savings account,10,,,Insufficient history
+2012-05-01,Checking or savings account,25,,,Insufficient history
+2012-06-01,Checking or savings account,9,17.0,-47.05882352941176,Decreasing
+2012-07-01,Checking or savings account,18,15.0,20.0,Stable
+2012-08-01,Checking or savings account,14,15.6,-10.256410256410255,Stable
+2012-09-01,Checking or savings account,18,15.333333333333334,17.391304347826082,Stable
+2012-10-01,Checking or savings account,13,15.666666666666666,-17.021276595744677,Stable
+2012-11-01,Checking or savings account,8,16.166666666666668,-50.51546391752577,Decreasing
+2012-12-01,Checking or savings account,14,13.333333333333334,4.999999999999996,Stable
+2013-01-01,Checking or savings account,14,14.166666666666666,-1.17647058823529,Stable
+2013-02-01,Checking or savings account,15,13.5,11.11111111111111,Stable
+2013-03-01,Checking or savings account,12,13.666666666666666,-12.195121951219507,Stable
+2013-04-01,Checking or savings account,15,12.666666666666666,18.421052631578952,Stable
+2013-05-01,Checking or savings account,11,13.0,-15.384615384615385,Stable
+2013-06-01,Checking or savings account,11,13.5,-18.51851851851852,Stable
+2013-07-01,Checking or savings account,11,13.0,-15.384615384615385,Stable
+2013-08-01,Checking or savings account,9,12.5,-28.000000000000004,Decreasing
+2013-09-01,Checking or savings account,13,11.5,13.043478260869565,Stable
+2013-10-01,Checking or savings account,18,11.666666666666666,54.28571428571429,High growth
+2013-11-01,Checking or savings account,15,12.166666666666666,23.28767123287672,Stable
+2013-12-01,Checking or savings account,5,12.833333333333334,-61.038961038961034,Decreasing
+2014-01-01,Checking or savings account,19,11.833333333333334,60.56338028169014,High growth
+2014-02-01,Checking or savings account,10,13.166666666666666,-24.050632911392402,Stable
+2014-03-01,Checking or savings account,16,13.333333333333334,19.999999999999996,Stable
+2014-04-01,Checking or savings account,14,13.833333333333334,1.2048192771084294,Stable
+2014-05-01,Checking or savings account,7,13.166666666666666,-46.835443037974684,Decreasing
+2014-06-01,Checking or savings account,16,11.833333333333334,35.21126760563379,Moderate growth
+2014-07-01,Checking or savings account,13,13.666666666666666,-4.878048780487801,Stable
+2014-08-01,Checking or savings account,11,12.666666666666666,-13.157894736842103,Stable
+2014-09-01,Checking or savings account,12,12.833333333333334,-6.493506493506499,Stable
+2014-10-01,Checking or savings account,13,12.166666666666666,6.849315068493156,Stable
+2014-11-01,Checking or savings account,13,12.0,8.333333333333332,Stable
+2014-12-01,Checking or savings account,15,13.0,15.384615384615385,Stable
+2015-01-01,Checking or savings account,21,12.833333333333334,63.636363636363626,High growth
+2015-02-01,Checking or savings account,10,14.166666666666666,-29.411764705882348,Decreasing
+2015-03-01,Checking or savings account,23,14.0,64.28571428571429,High growth
+2015-04-01,Checking or savings account,14,15.833333333333334,-11.578947368421055,Stable
+2015-05-01,Checking or savings account,16,16.0,0.0,Stable
+2015-06-01,Checking or savings account,22,16.5,33.33333333333333,Moderate growth
+2015-07-01,Checking or savings account,22,17.666666666666668,24.528301886792445,Stable
+2015-08-01,Checking or savings account,23,17.833333333333332,28.971962616822438,Moderate growth
+2015-09-01,Checking or savings account,18,20.0,-10.0,Stable
+2015-10-01,Checking or savings account,15,19.166666666666668,-21.739130434782613,Stable
+2015-11-01,Checking or savings account,21,19.333333333333332,8.62068965517242,Stable
+2015-12-01,Checking or savings account,13,20.166666666666668,-35.537190082644635,Decreasing
+2016-01-01,Checking or savings account,23,18.666666666666668,23.214285714285708,Stable
+2016-02-01,Checking or savings account,10,18.833333333333332,-46.90265486725663,Decreasing
+2016-03-01,Checking or savings account,16,16.666666666666668,-4.000000000000007,Stable
+2016-04-01,Checking or savings account,14,16.333333333333332,-14.28571428571428,Stable
+2016-05-01,Checking or savings account,22,16.166666666666668,36.08247422680411,Moderate growth
+2016-06-01,Checking or savings account,27,16.333333333333332,65.30612244897961,High growth
+2016-07-01,Checking or savings account,20,18.666666666666668,7.142857142857135,Stable
+2016-08-01,Checking or savings account,11,18.166666666666668,-39.44954128440367,Decreasing
+2016-09-01,Checking or savings account,23,18.333333333333332,25.454545454545464,Moderate growth
+2016-10-01,Checking or savings account,21,19.5,7.6923076923076925,Stable
+2016-11-01,Checking or savings account,27,20.666666666666668,30.645161290322577,Moderate growth
+2016-12-01,Checking or savings account,30,21.5,39.53488372093023,Moderate growth
+2017-01-01,Checking or savings account,24,22.0,9.090909090909092,Stable
+2017-02-01,Checking or savings account,16,22.666666666666668,-29.411764705882355,Decreasing
+2017-03-01,Checking or savings account,23,23.5,-2.127659574468085,Stable
+2017-04-01,Checking or savings account,22,23.5,-6.382978723404255,Stable
+2017-05-01,Checking or savings account,22,23.666666666666668,-7.042253521126765,Stable
+2017-06-01,Checking or savings account,26,22.833333333333332,13.868613138686136,Stable
+2017-07-01,Checking or savings account,18,22.166666666666668,-18.796992481203013,Stable
+2017-08-01,Checking or savings account,14,21.166666666666668,-33.85826771653544,Decreasing
+2017-09-01,Checking or savings account,24,20.833333333333332,15.200000000000005,Stable
+2017-10-01,Checking or savings account,25,21.0,19.047619047619047,Stable
+2017-11-01,Checking or savings account,23,21.5,6.976744186046512,Stable
+2017-12-01,Checking or savings account,11,21.666666666666668,-49.23076923076923,Decreasing
+2018-01-01,Checking or savings account,23,19.166666666666668,19.999999999999993,Stable
+2018-02-01,Checking or savings account,23,20.0,15.0,Stable
+2018-03-01,Checking or savings account,17,21.5,-20.930232558139537,Stable
+2018-04-01,Checking or savings account,24,20.333333333333332,18.03278688524591,Stable
+2018-05-01,Checking or savings account,24,20.166666666666668,19.00826446280991,Stable
+2018-06-01,Checking or savings account,23,20.333333333333332,13.114754098360661,Stable
+2018-07-01,Checking or savings account,15,22.333333333333332,-32.83582089552238,Decreasing
+2018-08-01,Checking or savings account,23,21.0,9.523809523809524,Stable
+2018-09-01,Checking or savings account,16,21.0,-23.809523809523807,Stable
+2018-10-01,Checking or savings account,18,20.833333333333332,-13.599999999999996,Stable
+2018-11-01,Checking or savings account,20,19.833333333333332,0.8403361344537875,Stable
+2018-12-01,Checking or savings account,22,19.166666666666668,14.782608695652167,Stable
+2019-01-01,Checking or savings account,20,19.0,5.263157894736842,Stable
+2019-02-01,Checking or savings account,24,19.833333333333332,21.008403361344545,Stable
+2019-03-01,Checking or savings account,18,20.0,-10.0,Stable
+2019-04-01,Checking or savings account,22,20.333333333333332,8.196721311475416,Stable
+2019-05-01,Checking or savings account,19,21.0,-9.523809523809524,Stable
+2019-06-01,Checking or savings account,19,20.833333333333332,-8.799999999999995,Stable
+2019-07-01,Checking or savings account,21,20.333333333333332,3.27868852459017,Stable
+2019-08-01,Checking or savings account,19,20.5,-7.317073170731707,Stable
+2019-09-01,Checking or savings account,15,19.666666666666668,-23.728813559322038,Stable
+2019-10-01,Checking or savings account,15,19.166666666666668,-21.739130434782613,Stable
+2019-11-01,Checking or savings account,16,18.0,-11.11111111111111,Stable
+2019-12-01,Checking or savings account,23,17.5,31.428571428571427,Moderate growth
+2020-01-01,Checking or savings account,15,18.166666666666668,-17.431192660550465,Stable
+2020-02-01,Checking or savings account,26,17.166666666666668,51.45631067961164,High growth
+2020-03-01,Checking or savings account,16,18.333333333333332,-12.72727272727272,Stable
+2020-04-01,Checking or savings account,20,18.5,8.108108108108109,Stable
+2020-05-01,Checking or savings account,21,19.333333333333332,8.62068965517242,Stable
+2020-06-01,Checking or savings account,31,20.166666666666668,53.7190082644628,High growth
+2020-07-01,Checking or savings account,35,21.5,62.7906976744186,High growth
+2020-08-01,Checking or savings account,27,24.833333333333332,8.724832214765106,Stable
+2020-09-01,Checking or savings account,23,25.0,-8.0,Stable
+2020-10-01,Checking or savings account,21,26.166666666666668,-19.74522292993631,Stable
+2020-11-01,Checking or savings account,36,26.333333333333332,36.708860759493675,Moderate growth
+2020-12-01,Checking or savings account,26,28.833333333333332,-9.826589595375719,Stable
+2021-01-01,Checking or savings account,25,28.0,-10.714285714285714,Stable
+2021-02-01,Checking or savings account,21,26.333333333333332,-20.253164556962023,Stable
+2021-03-01,Checking or savings account,33,25.333333333333332,30.263157894736846,Moderate growth
+2021-04-01,Checking or savings account,24,27.0,-11.11111111111111,Stable
+2021-05-01,Checking or savings account,36,27.5,30.909090909090907,Moderate growth
+2021-06-01,Checking or savings account,27,27.5,-1.8181818181818181,Stable
+2021-07-01,Checking or savings account,31,27.666666666666668,12.048192771084333,Stable
+2021-08-01,Checking or savings account,34,28.666666666666668,18.60465116279069,Stable
+2021-09-01,Checking or savings account,22,30.833333333333332,-28.648648648648646,Decreasing
+2021-10-01,Checking or savings account,25,29.0,-13.793103448275861,Stable
+2021-11-01,Checking or savings account,37,29.166666666666668,26.85714285714285,Moderate growth
+2021-12-01,Checking or savings account,26,29.333333333333332,-11.36363636363636,Stable
+2022-01-01,Checking or savings account,49,29.166666666666668,68.0,High growth
+2022-02-01,Checking or savings account,36,32.166666666666664,11.917098445595862,Stable
+2022-03-01,Checking or savings account,35,32.5,7.6923076923076925,Stable
+2022-04-01,Checking or savings account,30,34.666666666666664,-13.461538461538455,Stable
+2022-05-01,Checking or savings account,41,35.5,15.492957746478872,Stable
+2022-06-01,Checking or savings account,32,36.166666666666664,-11.520737327188934,Stable
+2022-07-01,Checking or savings account,25,37.166666666666664,-32.7354260089686,Decreasing
+2022-08-01,Checking or savings account,45,33.166666666666664,35.67839195979901,Moderate growth
+2022-09-01,Checking or savings account,32,34.666666666666664,-7.692307692307685,Stable
+2022-10-01,Checking or savings account,41,34.166666666666664,20.00000000000001,Stable
+2022-11-01,Checking or savings account,30,36.0,-16.666666666666664,Stable
+2022-12-01,Checking or savings account,38,34.166666666666664,11.219512195121958,Stable
+2023-01-01,Checking or savings account,89,35.166666666666664,153.08056872037918,Critical growth
+2023-02-01,Checking or savings account,39,45.833333333333336,-14.909090909090914,Stable
+2023-03-01,Checking or savings account,49,44.833333333333336,9.293680297397763,Stable
+2023-04-01,Checking or savings account,39,47.666666666666664,-18.181818181818176,Stable
+2023-05-01,Checking or savings account,58,47.333333333333336,22.53521126760563,Stable
+2023-06-01,Checking or savings account,52,52.0,0.0,Stable
+2023-07-01,Checking or savings account,52,54.333333333333336,-4.2944785276073665,Stable
+2023-08-01,Checking or savings account,53,48.166666666666664,10.034602076124573,Stable
+2023-09-01,Checking or savings account,42,50.5,-16.831683168316832,Stable
+2023-10-01,Checking or savings account,50,49.333333333333336,1.3513513513513467,Stable
+2023-11-01,Checking or savings account,45,51.166666666666664,-12.052117263843645,Stable
+2023-12-01,Checking or savings account,38,49.0,-22.448979591836736,Stable
+2024-01-01,Checking or savings account,61,46.666666666666664,30.714285714285722,Moderate growth
+2024-02-01,Checking or savings account,48,48.166666666666664,-0.34602076124566983,Stable
+2024-03-01,Checking or savings account,57,47.333333333333336,20.4225352112676,Stable
+2024-04-01,Checking or savings account,41,49.833333333333336,-17.725752508361207,Stable
+2024-05-01,Checking or savings account,50,48.333333333333336,3.4482758620689604,Stable
+2024-06-01,Checking or savings account,53,49.166666666666664,7.79661016949153,Stable
+2024-07-01,Checking or savings account,58,51.666666666666664,12.258064516129037,Stable
+2024-08-01,Checking or savings account,58,51.166666666666664,13.35504885993486,Stable
+2024-09-01,Checking or savings account,45,52.833333333333336,-14.82649842271294,Stable
+2024-10-01,Checking or savings account,52,50.833333333333336,2.29508196721311,Stable
+2024-11-01,Checking or savings account,64,52.666666666666664,21.51898734177216,Stable
+2024-12-01,Checking or savings account,57,55.0,3.6363636363636362,Stable
+2025-01-01,Checking or savings account,196,55.666666666666664,252.09580838323356,Critical growth
+2025-02-01,Checking or savings account,61,78.66666666666667,-22.457627118644073,Stable
+2025-03-01,Checking or savings account,44,79.16666666666667,-44.42105263157895,Decreasing
+2025-04-01,Checking or savings account,67,79.0,-15.18987341772152,Stable
+2025-05-01,Checking or savings account,74,81.5,-9.202453987730062,Stable
+2025-06-01,Checking or savings account,69,83.16666666666667,-17.034068136272552,Stable
+2025-07-01,Checking or savings account,79,85.16666666666667,-7.240704500978479,Stable
+2025-08-01,Checking or savings account,76,65.66666666666667,15.736040609137047,Stable
+2025-09-01,Checking or savings account,78,68.16666666666667,14.425427872860627,Stable
+2025-10-01,Checking or savings account,66,73.83333333333333,-10.609480812641078,Stable
+2025-11-01,Checking or savings account,74,73.66666666666667,0.45248868778279894,Stable
+2025-12-01,Checking or savings account,78,73.66666666666667,5.882352941176464,Stable
+2026-01-01,Checking or savings account,93,75.16666666666667,23.725055432372496,Stable
+2026-02-01,Checking or savings account,48,77.5,-38.064516129032256,Decreasing
+2026-03-01,Checking or savings account,64,72.83333333333333,-12.12814645308924,Stable
+2026-04-01,Checking or savings account,46,70.5,-34.751773049645394,Decreasing
+2026-05-01,Checking or savings account,27,67.16666666666667,-59.801488833746895,Decreasing
+2026-06-01,Checking or savings account,9,59.333333333333336,-84.8314606741573,Decreasing
+2011-12-01,Credit card or prepaid card,12,,,Insufficient history
+2012-01-01,Credit card or prepaid card,13,,,Insufficient history
+2012-02-01,Credit card or prepaid card,16,,,Insufficient history
+2012-03-01,Credit card or prepaid card,12,13.666666666666666,-12.195121951219507,Stable
+2012-04-01,Credit card or prepaid card,17,13.25,28.30188679245283,Moderate growth
+2012-05-01,Credit card or prepaid card,15,14.0,7.142857142857142,Stable
+2012-06-01,Credit card or prepaid card,18,14.166666666666666,27.058823529411768,Moderate growth
+2012-07-01,Credit card or prepaid card,21,15.166666666666666,38.46153846153847,Moderate growth
+2012-08-01,Credit card or prepaid card,16,16.5,-3.0303030303030303,Stable
+2012-09-01,Credit card or prepaid card,11,16.5,-33.33333333333333,Decreasing
+2012-10-01,Credit card or prepaid card,12,16.333333333333332,-26.530612244897956,Decreasing
+2012-11-01,Credit card or prepaid card,14,15.5,-9.67741935483871,Stable
+2012-12-01,Credit card or prepaid card,15,15.333333333333334,-2.1739130434782648,Stable
+2013-01-01,Credit card or prepaid card,8,14.833333333333334,-46.06741573033708,Decreasing
+2013-02-01,Credit card or prepaid card,8,12.666666666666666,-36.84210526315789,Decreasing
+2013-03-01,Credit card or prepaid card,11,11.333333333333334,-2.9411764705882404,Stable
+2013-04-01,Credit card or prepaid card,9,11.333333333333334,-20.588235294117652,Stable
+2013-05-01,Credit card or prepaid card,12,10.833333333333334,10.769230769230763,Stable
+2013-06-01,Credit card or prepaid card,13,10.5,23.809523809523807,Stable
+2013-07-01,Credit card or prepaid card,16,10.166666666666666,57.37704918032788,High growth
+2013-08-01,Credit card or prepaid card,14,11.5,21.73913043478261,Stable
+2013-09-01,Credit card or prepaid card,8,12.5,-36.0,Decreasing
+2013-10-01,Credit card or prepaid card,14,12.0,16.666666666666664,Stable
+2013-11-01,Credit card or prepaid card,16,12.833333333333334,24.67532467532467,Stable
+2013-12-01,Credit card or prepaid card,13,13.5,-3.7037037037037033,Stable
+2014-01-01,Credit card or prepaid card,16,13.5,18.51851851851852,Stable
+2014-02-01,Credit card or prepaid card,14,13.5,3.7037037037037033,Stable
+2014-03-01,Credit card or prepaid card,12,13.5,-11.11111111111111,Stable
+2014-04-01,Credit card or prepaid card,19,14.166666666666666,34.117647058823536,Moderate growth
+2014-05-01,Credit card or prepaid card,14,15.0,-6.666666666666667,Stable
+2014-06-01,Credit card or prepaid card,20,14.666666666666666,36.36363636363637,Moderate growth
+2014-07-01,Credit card or prepaid card,10,15.833333333333334,-36.8421052631579,Decreasing
+2014-08-01,Credit card or prepaid card,16,14.833333333333334,7.865168539325838,Stable
+2014-09-01,Credit card or prepaid card,16,15.166666666666666,5.494505494505499,Stable
+2014-10-01,Credit card or prepaid card,11,15.833333333333334,-30.526315789473685,Decreasing
+2014-11-01,Credit card or prepaid card,14,14.5,-3.4482758620689653,Stable
+2014-12-01,Credit card or prepaid card,11,14.5,-24.137931034482758,Stable
+2015-01-01,Credit card or prepaid card,8,13.0,-38.46153846153847,Decreasing
+2015-02-01,Credit card or prepaid card,18,12.666666666666666,42.10526315789475,Moderate growth
+2015-03-01,Credit card or prepaid card,18,13.0,38.46153846153847,Moderate growth
+2015-04-01,Credit card or prepaid card,16,13.333333333333334,19.999999999999996,Stable
+2015-05-01,Credit card or prepaid card,18,14.166666666666666,27.058823529411768,Moderate growth
+2015-06-01,Credit card or prepaid card,18,14.833333333333334,21.348314606741567,Stable
+2015-07-01,Credit card or prepaid card,17,16.0,6.25,Stable
+2015-08-01,Credit card or prepaid card,13,17.5,-25.71428571428571,Decreasing
+2015-09-01,Credit card or prepaid card,11,16.666666666666668,-34.0,Decreasing
+2015-10-01,Credit card or prepaid card,29,15.5,87.09677419354838,High growth
+2015-11-01,Credit card or prepaid card,17,17.666666666666668,-3.773584905660384,Stable
+2015-12-01,Credit card or prepaid card,16,17.5,-8.571428571428571,Stable
+2016-01-01,Credit card or prepaid card,16,17.166666666666668,-6.796116504854376,Stable
+2016-02-01,Credit card or prepaid card,17,17.0,0.0,Stable
+2016-03-01,Credit card or prepaid card,24,17.666666666666668,35.849056603773576,Moderate growth
+2016-04-01,Credit card or prepaid card,19,19.833333333333332,-4.2016806722689015,Stable
+2016-05-01,Credit card or prepaid card,22,18.166666666666668,21.100917431192652,Stable
+2016-06-01,Credit card or prepaid card,21,19.0,10.526315789473683,Stable
+2016-07-01,Credit card or prepaid card,27,19.833333333333332,36.13445378151262,Moderate growth
+2016-08-01,Credit card or prepaid card,25,21.666666666666668,15.384615384615378,Stable
+2016-09-01,Credit card or prepaid card,26,23.0,13.043478260869565,Stable
+2016-10-01,Credit card or prepaid card,19,23.333333333333332,-18.571428571428566,Stable
+2016-11-01,Credit card or prepaid card,18,23.333333333333332,-22.857142857142854,Stable
+2016-12-01,Credit card or prepaid card,22,22.666666666666668,-2.9411764705882404,Stable
+2017-01-01,Credit card or prepaid card,17,22.833333333333332,-25.54744525547445,Decreasing
+2017-02-01,Credit card or prepaid card,22,21.166666666666668,3.9370078740157424,Stable
+2017-03-01,Credit card or prepaid card,19,20.666666666666668,-8.064516129032263,Stable
+2017-04-01,Credit card or prepaid card,24,19.5,23.076923076923077,Stable
+2017-05-01,Credit card or prepaid card,25,20.333333333333332,22.950819672131153,Stable
+2017-06-01,Credit card or prepaid card,23,21.5,6.976744186046512,Stable
+2017-07-01,Credit card or prepaid card,28,21.666666666666668,29.230769230769223,Moderate growth
+2017-08-01,Credit card or prepaid card,26,23.5,10.638297872340425,Stable
+2017-09-01,Credit card or prepaid card,21,24.166666666666668,-13.103448275862073,Stable
+2017-10-01,Credit card or prepaid card,16,24.5,-34.69387755102041,Decreasing
+2017-11-01,Credit card or prepaid card,18,23.166666666666668,-22.3021582733813,Stable
+2017-12-01,Credit card or prepaid card,23,22.0,4.545454545454546,Stable
+2018-01-01,Credit card or prepaid card,23,22.0,4.545454545454546,Stable
+2018-02-01,Credit card or prepaid card,21,21.166666666666668,-0.7874015748031551,Stable
+2018-03-01,Credit card or prepaid card,21,20.333333333333332,3.27868852459017,Stable
+2018-04-01,Credit card or prepaid card,41,20.333333333333332,101.63934426229508,Critical growth
+2018-05-01,Credit card or prepaid card,18,24.5,-26.53061224489796,Decreasing
+2018-06-01,Credit card or prepaid card,26,24.5,6.122448979591836,Stable
+2018-07-01,Credit card or prepaid card,38,25.0,52.0,High growth
+2018-08-01,Credit card or prepaid card,25,27.5,-9.090909090909092,Stable
+2018-09-01,Credit card or prepaid card,25,28.166666666666668,-11.242603550295861,Stable
+2018-10-01,Credit card or prepaid card,25,28.833333333333332,-13.294797687861267,Stable
+2018-11-01,Credit card or prepaid card,25,26.166666666666668,-4.458598726114654,Stable
+2018-12-01,Credit card or prepaid card,29,27.333333333333332,6.097560975609761,Stable
+2019-01-01,Credit card or prepaid card,16,27.833333333333332,-42.514970059880234,Decreasing
+2019-02-01,Credit card or prepaid card,31,24.166666666666668,28.275862068965512,Moderate growth
+2019-03-01,Credit card or prepaid card,30,25.166666666666668,19.205298013245027,Stable
+2019-04-01,Credit card or prepaid card,30,26.0,15.384615384615385,Stable
+2019-05-01,Credit card or prepaid card,23,26.833333333333332,-14.285714285714283,Stable
+2019-06-01,Credit card or prepaid card,24,26.5,-9.433962264150944,Stable
+2019-07-01,Credit card or prepaid card,25,25.666666666666668,-2.597402597402602,Stable
+2019-08-01,Credit card or prepaid card,21,27.166666666666668,-22.699386503067487,Stable
+2019-09-01,Credit card or prepaid card,25,25.5,-1.9607843137254901,Stable
+2019-10-01,Credit card or prepaid card,24,24.666666666666668,-2.7027027027027075,Stable
+2019-11-01,Credit card or prepaid card,29,23.666666666666668,22.53521126760563,Stable
+2019-12-01,Credit card or prepaid card,26,24.666666666666668,5.4054054054054,Stable
+2020-01-01,Credit card or prepaid card,20,25.0,-20.0,Stable
+2020-02-01,Credit card or prepaid card,28,24.166666666666668,15.862068965517237,Stable
+2020-03-01,Credit card or prepaid card,38,25.333333333333332,50.000000000000014,High growth
+2020-04-01,Credit card or prepaid card,35,27.5,27.27272727272727,Moderate growth
+2020-05-01,Credit card or prepaid card,38,29.333333333333332,29.545454545454554,Moderate growth
+2020-06-01,Credit card or prepaid card,39,30.833333333333332,26.486486486486495,Moderate growth
+2020-07-01,Credit card or prepaid card,31,33.0,-6.0606060606060606,Stable
+2020-08-01,Credit card or prepaid card,35,34.833333333333336,0.4784688995215242,Stable
+2020-09-01,Credit card or prepaid card,39,36.0,8.333333333333332,Stable
+2020-10-01,Credit card or prepaid card,44,36.166666666666664,21.658986175115217,Stable
+2020-11-01,Credit card or prepaid card,32,37.666666666666664,-15.044247787610615,Stable
+2020-12-01,Credit card or prepaid card,38,36.666666666666664,3.636363636363643,Stable
+2021-01-01,Credit card or prepaid card,35,36.5,-4.10958904109589,Stable
+2021-02-01,Credit card or prepaid card,41,37.166666666666664,10.313901345291487,Stable
+2021-03-01,Credit card or prepaid card,31,38.166666666666664,-18.777292576419207,Stable
+2021-04-01,Credit card or prepaid card,20,36.833333333333336,-45.70135746606335,Decreasing
+2021-05-01,Credit card or prepaid card,23,32.833333333333336,-29.94923857868021,Decreasing
+2021-06-01,Credit card or prepaid card,23,31.333333333333332,-26.595744680851062,Decreasing
+2021-07-01,Credit card or prepaid card,24,28.833333333333332,-16.763005780346816,Stable
+2021-08-01,Credit card or prepaid card,24,27.0,-11.11111111111111,Stable
+2021-09-01,Credit card or prepaid card,28,24.166666666666668,15.862068965517237,Stable
+2021-10-01,Credit card or prepaid card,30,23.666666666666668,26.76056338028168,Moderate growth
+2021-11-01,Credit card or prepaid card,28,25.333333333333332,10.526315789473689,Stable
+2021-12-01,Credit card or prepaid card,37,26.166666666666668,41.401273885350314,Moderate growth
+2022-01-01,Credit card or prepaid card,41,28.5,43.859649122807014,Moderate growth
+2022-02-01,Credit card or prepaid card,39,31.333333333333332,24.468085106382983,Stable
+2022-03-01,Credit card or prepaid card,42,33.833333333333336,24.137931034482747,Stable
+2022-04-01,Credit card or prepaid card,46,36.166666666666664,27.188940092165907,Moderate growth
+2022-05-01,Credit card or prepaid card,32,38.833333333333336,-17.596566523605155,Stable
+2022-06-01,Credit card or prepaid card,26,39.5,-34.177215189873415,Decreasing
+2022-07-01,Credit card or prepaid card,36,37.666666666666664,-4.4247787610619405,Stable
+2022-08-01,Credit card or prepaid card,35,36.833333333333336,-4.977375565610866,Stable
+2022-09-01,Credit card or prepaid card,36,36.166666666666664,-0.4608294930875511,Stable
+2022-10-01,Credit card or prepaid card,29,35.166666666666664,-17.535545023696677,Stable
+2022-11-01,Credit card or prepaid card,39,32.333333333333336,20.61855670103092,Stable
+2022-12-01,Credit card or prepaid card,53,33.5,58.2089552238806,High growth
+2023-01-01,Credit card or prepaid card,47,38.0,23.684210526315788,Stable
+2023-02-01,Credit card or prepaid card,35,39.833333333333336,-12.133891213389127,Stable
+2023-03-01,Credit card or prepaid card,56,39.833333333333336,40.58577405857739,Moderate growth
+2023-04-01,Credit card or prepaid card,46,43.166666666666664,6.56370656370657,Stable
+2023-05-01,Credit card or prepaid card,62,46.0,34.78260869565217,Moderate growth
+2023-06-01,Credit card or prepaid card,66,49.833333333333336,32.44147157190635,Moderate growth
+2023-07-01,Credit card or prepaid card,53,52.0,1.9230769230769231,Stable
+2023-08-01,Credit card or prepaid card,60,53.0,13.20754716981132,Stable
+2023-09-01,Credit card or prepaid card,66,57.166666666666664,15.451895043731783,Stable
+2023-10-01,Credit card or prepaid card,73,58.833333333333336,24.07932011331444,Stable
+2023-11-01,Credit card or prepaid card,71,63.333333333333336,12.105263157894733,Stable
+2023-12-01,Credit card or prepaid card,61,64.83333333333333,-5.912596401028271,Stable
+2024-01-01,Credit card or prepaid card,63,64.0,-1.5625,Stable
+2024-02-01,Credit card or prepaid card,66,65.66666666666667,0.5076142131979623,Stable
+2024-03-01,Credit card or prepaid card,79,66.66666666666667,18.499999999999993,Stable
+2024-04-01,Credit card or prepaid card,83,68.83333333333333,20.581113801452794,Stable
+2024-05-01,Credit card or prepaid card,101,70.5,43.262411347517734,Moderate growth
+2024-06-01,Credit card or prepaid card,56,75.5,-25.82781456953642,Decreasing
+2024-07-01,Credit card or prepaid card,80,74.66666666666667,7.142857142857135,Stable
+2024-08-01,Credit card or prepaid card,85,77.5,9.67741935483871,Stable
+2024-09-01,Credit card or prepaid card,75,80.66666666666667,-7.0247933884297575,Stable
+2024-10-01,Credit card or prepaid card,96,80.0,20.0,Stable
+2024-11-01,Credit card or prepaid card,65,82.16666666666667,-20.89249492900609,Stable
+2024-12-01,Credit card or prepaid card,96,76.16666666666667,26.039387308533907,Moderate growth
+2025-01-01,Credit card or prepaid card,114,82.83333333333333,37.62575452716298,Moderate growth
+2025-02-01,Credit card or prepaid card,79,88.5,-10.734463276836157,Stable
+2025-03-01,Credit card or prepaid card,85,87.5,-2.857142857142857,Stable
+2025-04-01,Credit card or prepaid card,89,89.16666666666667,-0.18691588785047258,Stable
+2025-05-01,Credit card or prepaid card,89,88.0,1.1363636363636365,Stable
+2025-06-01,Credit card or prepaid card,97,92.0,5.434782608695652,Stable
+2025-07-01,Credit card or prepaid card,107,92.16666666666667,16.094032549728745,Stable
+2025-08-01,Credit card or prepaid card,90,91.0,-1.098901098901099,Stable
+2025-09-01,Credit card or prepaid card,107,92.83333333333333,15.260323159784567,Stable
+2025-10-01,Credit card or prepaid card,91,96.5,-5.699481865284974,Stable
+2025-11-01,Credit card or prepaid card,84,96.83333333333333,-13.253012048192767,Stable
+2025-12-01,Credit card or prepaid card,91,96.0,-5.208333333333334,Stable
+2026-01-01,Credit card or prepaid card,117,95.0,23.157894736842106,Stable
+2026-02-01,Credit card or prepaid card,62,96.66666666666667,-35.862068965517246,Decreasing
+2026-03-01,Credit card or prepaid card,92,92.0,0.0,Stable
+2026-04-01,Credit card or prepaid card,55,89.5,-38.547486033519554,Decreasing
+2026-05-01,Credit card or prepaid card,34,83.5,-59.2814371257485,Decreasing
+2026-06-01,Credit card or prepaid card,9,75.16666666666667,-88.02660753880266,Decreasing
+2012-10-01,Credit reporting or other personal consumer reports,5,,,Insufficient history
+2012-11-01,Credit reporting or other personal consumer reports,8,,,Insufficient history
+2012-12-01,Credit reporting or other personal consumer reports,14,,,Insufficient history
+2013-01-01,Credit reporting or other personal consumer reports,14,9.0,55.55555555555556,High growth
+2013-02-01,Credit reporting or other personal consumer reports,14,10.25,36.58536585365854,Moderate growth
+2013-03-01,Credit reporting or other personal consumer reports,7,11.0,-36.36363636363637,Decreasing
+2013-04-01,Credit reporting or other personal consumer reports,16,10.333333333333334,54.83870967741935,High growth
+2013-05-01,Credit reporting or other personal consumer reports,8,12.166666666666666,-34.24657534246575,Decreasing
+2013-06-01,Credit reporting or other personal consumer reports,19,12.166666666666666,56.16438356164384,High growth
+2013-07-01,Credit reporting or other personal consumer reports,7,13.0,-46.15384615384615,Decreasing
+2013-08-01,Credit reporting or other personal consumer reports,23,11.833333333333334,94.36619718309858,High growth
+2013-09-01,Credit reporting or other personal consumer reports,10,13.333333333333334,-25.000000000000007,Decreasing
+2013-10-01,Credit reporting or other personal consumer reports,14,13.833333333333334,1.2048192771084294,Stable
+2013-11-01,Credit reporting or other personal consumer reports,13,13.5,-3.7037037037037033,Stable
+2013-12-01,Credit reporting or other personal consumer reports,23,14.333333333333334,60.46511627906976,High growth
+2014-01-01,Credit reporting or other personal consumer reports,29,15.0,93.33333333333333,High growth
+2014-02-01,Credit reporting or other personal consumer reports,32,18.666666666666668,71.42857142857142,High growth
+2014-03-01,Credit reporting or other personal consumer reports,28,20.166666666666668,38.84297520661156,Moderate growth
+2014-04-01,Credit reporting or other personal consumer reports,25,23.166666666666668,7.913669064748195,Stable
+2014-05-01,Credit reporting or other personal consumer reports,27,25.0,8.0,Stable
+2014-06-01,Credit reporting or other personal consumer reports,37,27.333333333333332,35.36585365853659,Moderate growth
+2014-07-01,Credit reporting or other personal consumer reports,27,29.666666666666668,-8.988764044943824,Stable
+2014-08-01,Credit reporting or other personal consumer reports,32,29.333333333333332,9.090909090909095,Stable
+2014-09-01,Credit reporting or other personal consumer reports,21,29.333333333333332,-28.409090909090907,Decreasing
+2014-10-01,Credit reporting or other personal consumer reports,21,28.166666666666668,-25.443786982248522,Decreasing
+2014-11-01,Credit reporting or other personal consumer reports,27,27.5,-1.8181818181818181,Stable
+2014-12-01,Credit reporting or other personal consumer reports,27,27.5,-1.8181818181818181,Stable
+2015-01-01,Credit reporting or other personal consumer reports,28,25.833333333333332,8.387096774193553,Stable
+2015-02-01,Credit reporting or other personal consumer reports,27,26.0,3.8461538461538463,Stable
+2015-03-01,Credit reporting or other personal consumer reports,36,25.166666666666668,43.04635761589403,Moderate growth
+2015-04-01,Credit reporting or other personal consumer reports,27,27.666666666666668,-2.4096385542168717,Stable
+2015-05-01,Credit reporting or other personal consumer reports,27,28.666666666666668,-5.813953488372097,Stable
+2015-06-01,Credit reporting or other personal consumer reports,22,28.666666666666668,-23.255813953488374,Stable
+2015-07-01,Credit reporting or other personal consumer reports,47,27.833333333333332,68.8622754491018,High growth
+2015-08-01,Credit reporting or other personal consumer reports,33,31.0,6.451612903225806,Stable
+2015-09-01,Credit reporting or other personal consumer reports,36,32.0,12.5,Stable
+2015-10-01,Credit reporting or other personal consumer reports,28,32.0,-12.5,Stable
+2015-11-01,Credit reporting or other personal consumer reports,38,32.166666666666664,18.134715025906743,Stable
+2015-12-01,Credit reporting or other personal consumer reports,22,34.0,-35.294117647058826,Decreasing
+2016-01-01,Credit reporting or other personal consumer reports,26,34.0,-23.52941176470588,Stable
+2016-02-01,Credit reporting or other personal consumer reports,40,30.5,31.147540983606557,Moderate growth
+2016-03-01,Credit reporting or other personal consumer reports,52,31.666666666666668,64.21052631578947,High growth
+2016-04-01,Credit reporting or other personal consumer reports,35,34.333333333333336,1.941747572815527,Stable
+2016-05-01,Credit reporting or other personal consumer reports,57,35.5,60.56338028169014,High growth
+2016-06-01,Credit reporting or other personal consumer reports,50,38.666666666666664,29.310344827586217,Moderate growth
+2016-07-01,Credit reporting or other personal consumer reports,44,43.333333333333336,1.538461538461533,Stable
+2016-08-01,Credit reporting or other personal consumer reports,44,46.333333333333336,-5.035971223021588,Stable
+2016-09-01,Credit reporting or other personal consumer reports,46,47.0,-2.127659574468085,Stable
+2016-10-01,Credit reporting or other personal consumer reports,47,46.0,2.1739130434782608,Stable
+2016-11-01,Credit reporting or other personal consumer reports,43,48.0,-10.416666666666668,Stable
+2016-12-01,Credit reporting or other personal consumer reports,42,45.666666666666664,-8.029197080291967,Stable
+2017-01-01,Credit reporting or other personal consumer reports,43,44.333333333333336,-3.0075187969924864,Stable
+2017-02-01,Credit reporting or other personal consumer reports,45,44.166666666666664,1.8867924528301943,Stable
+2017-03-01,Credit reporting or other personal consumer reports,54,44.333333333333336,21.80451127819548,Stable
+2017-04-01,Credit reporting or other personal consumer reports,60,45.666666666666664,31.386861313868618,Moderate growth
+2017-05-01,Credit reporting or other personal consumer reports,82,47.833333333333336,71.42857142857142,High growth
+2017-06-01,Credit reporting or other personal consumer reports,72,54.333333333333336,32.51533742331288,Moderate growth
+2017-07-01,Credit reporting or other personal consumer reports,97,59.333333333333336,63.48314606741572,High growth
+2017-08-01,Credit reporting or other personal consumer reports,104,68.33333333333333,52.19512195121953,High growth
+2017-09-01,Credit reporting or other personal consumer reports,206,78.16666666666667,163.53944562899784,Critical growth
+2017-10-01,Credit reporting or other personal consumer reports,96,103.5,-7.246376811594203,Stable
+2017-11-01,Credit reporting or other personal consumer reports,95,109.5,-13.24200913242009,Stable
+2017-12-01,Credit reporting or other personal consumer reports,94,111.66666666666667,-15.820895522388062,Stable
+2018-01-01,Credit reporting or other personal consumer reports,103,115.33333333333333,-10.693641618497105,Stable
+2018-02-01,Credit reporting or other personal consumer reports,107,116.33333333333333,-8.022922636103148,Stable
+2018-03-01,Credit reporting or other personal consumer reports,119,116.83333333333333,1.854493580599148,Stable
+2018-04-01,Credit reporting or other personal consumer reports,132,102.33333333333333,28.990228013029324,Moderate growth
+2018-05-01,Credit reporting or other personal consumer reports,119,108.33333333333333,9.84615384615385,Stable
+2018-06-01,Credit reporting or other personal consumer reports,98,112.33333333333333,-12.759643916913943,Stable
+2018-07-01,Credit reporting or other personal consumer reports,101,113.0,-10.619469026548673,Stable
+2018-08-01,Credit reporting or other personal consumer reports,100,112.66666666666667,-11.242603550295861,Stable
+2018-09-01,Credit reporting or other personal consumer reports,107,111.5,-4.0358744394618835,Stable
+2018-10-01,Credit reporting or other personal consumer reports,89,109.5,-18.72146118721461,Stable
+2018-11-01,Credit reporting or other personal consumer reports,92,102.33333333333333,-10.097719869706836,Stable
+2018-12-01,Credit reporting or other personal consumer reports,94,97.83333333333333,-3.9182282793867076,Stable
+2019-01-01,Credit reporting or other personal consumer reports,100,97.16666666666667,2.915951972555741,Stable
+2019-02-01,Credit reporting or other personal consumer reports,103,97.0,6.185567010309279,Stable
+2019-03-01,Credit reporting or other personal consumer reports,120,97.5,23.076923076923077,Stable
+2019-04-01,Credit reporting or other personal consumer reports,119,99.66666666666667,19.397993311036785,Stable
+2019-05-01,Credit reporting or other personal consumer reports,154,104.66666666666667,47.13375796178344,Moderate growth
+2019-06-01,Credit reporting or other personal consumer reports,119,115.0,3.4782608695652173,Stable
+2019-07-01,Credit reporting or other personal consumer reports,119,119.16666666666667,-0.13986013986014384,Stable
+2019-08-01,Credit reporting or other personal consumer reports,158,122.33333333333333,29.15531335149864,Moderate growth
+2019-09-01,Credit reporting or other personal consumer reports,135,131.5,2.6615969581749046,Stable
+2019-10-01,Credit reporting or other personal consumer reports,145,134.0,8.208955223880597,Stable
+2019-11-01,Credit reporting or other personal consumer reports,132,138.33333333333334,-4.5783132530120545,Stable
+2019-12-01,Credit reporting or other personal consumer reports,147,134.66666666666666,9.158415841584166,Stable
+2020-01-01,Credit reporting or other personal consumer reports,151,139.33333333333334,8.373205741626787,Stable
+2020-02-01,Credit reporting or other personal consumer reports,141,144.66666666666666,-2.5345622119815605,Stable
+2020-03-01,Credit reporting or other personal consumer reports,183,141.83333333333334,29.024676850763797,Moderate growth
+2020-04-01,Credit reporting or other personal consumer reports,248,149.83333333333334,65.51724137931033,High growth
+2020-05-01,Credit reporting or other personal consumer reports,267,167.0,59.88023952095808,High growth
+2020-06-01,Credit reporting or other personal consumer reports,266,189.5,40.369393139841684,Moderate growth
+2020-07-01,Credit reporting or other personal consumer reports,273,209.33333333333334,30.414012738853497,Moderate growth
+2020-08-01,Credit reporting or other personal consumer reports,320,229.66666666666666,39.33236574746009,Moderate growth
+2020-09-01,Credit reporting or other personal consumer reports,312,259.5,20.23121387283237,Stable
+2020-10-01,Credit reporting or other personal consumer reports,362,281.0,28.825622775800714,Moderate growth
+2020-11-01,Credit reporting or other personal consumer reports,313,300.0,4.333333333333334,Stable
+2020-12-01,Credit reporting or other personal consumer reports,379,307.6666666666667,23.18526543878656,Stable
+2021-01-01,Credit reporting or other personal consumer reports,296,326.5,-9.341500765696784,Stable
+2021-02-01,Credit reporting or other personal consumer reports,194,330.3333333333333,-41.27144298688194,Decreasing
+2021-03-01,Credit reporting or other personal consumer reports,287,309.3333333333333,-7.219827586206891,Stable
+2021-04-01,Credit reporting or other personal consumer reports,268,305.1666666666667,-12.179137083560901,Stable
+2021-05-01,Credit reporting or other personal consumer reports,294,289.5,1.5544041450777202,Stable
+2021-06-01,Credit reporting or other personal consumer reports,322,286.3333333333333,12.456344586728761,Stable
+2021-07-01,Credit reporting or other personal consumer reports,355,276.8333333333333,28.23600240818785,Moderate growth
+2021-08-01,Credit reporting or other personal consumer reports,302,286.6666666666667,5.348837209302318,Stable
+2021-09-01,Credit reporting or other personal consumer reports,320,304.6666666666667,5.032822757111591,Stable
+2021-10-01,Credit reporting or other personal consumer reports,265,310.1666666666667,-14.562063406770559,Stable
+2021-11-01,Credit reporting or other personal consumer reports,280,309.6666666666667,-9.58019375672767,Stable
+2021-12-01,Credit reporting or other personal consumer reports,359,307.3333333333333,16.811279826464215,Stable
+2022-01-01,Credit reporting or other personal consumer reports,436,313.5,39.07496012759171,Moderate growth
+2022-02-01,Credit reporting or other personal consumer reports,414,327.0,26.605504587155966,Moderate growth
+2022-03-01,Credit reporting or other personal consumer reports,489,345.6666666666667,41.46576663452265,Moderate growth
+2022-04-01,Credit reporting or other personal consumer reports,647,373.8333333333333,73.07177886758805,High growth
+2022-05-01,Credit reporting or other personal consumer reports,572,437.5,30.742857142857144,Moderate growth
+2022-06-01,Credit reporting or other personal consumer reports,549,486.1666666666667,12.92423723003085,Stable
+2022-07-01,Credit reporting or other personal consumer reports,588,517.8333333333334,13.550048278081741,Stable
+2022-08-01,Credit reporting or other personal consumer reports,631,543.1666666666666,16.17060447990182,Stable
+2022-09-01,Credit reporting or other personal consumer reports,545,579.3333333333334,-5.926352128883781,Stable
+2022-10-01,Credit reporting or other personal consumer reports,660,588.6666666666666,12.117780294450743,Stable
+2022-11-01,Credit reporting or other personal consumer reports,735,590.8333333333334,24.40056417489421,Stable
+2022-12-01,Credit reporting or other personal consumer reports,740,618.0,19.741100323624593,Stable
+2023-01-01,Credit reporting or other personal consumer reports,809,649.8333333333334,24.49345986150294,Stable
+2023-02-01,Credit reporting or other personal consumer reports,819,686.6666666666666,19.271844660194184,Stable
+2023-03-01,Credit reporting or other personal consumer reports,1053,718.0,46.65738161559889,Moderate growth
+2023-04-01,Credit reporting or other personal consumer reports,974,802.6666666666666,21.34551495016612,Stable
+2023-05-01,Credit reporting or other personal consumer reports,927,855.0,8.421052631578947,Stable
+2023-06-01,Credit reporting or other personal consumer reports,967,887.0,9.019165727170236,Stable
+2023-07-01,Credit reporting or other personal consumer reports,955,924.8333333333334,3.261848981798518,Stable
+2023-08-01,Credit reporting or other personal consumer reports,1110,949.1666666666666,16.944688323090435,Stable
+2023-09-01,Credit reporting or other personal consumer reports,1072,997.6666666666666,7.450718342799871,Stable
+2023-10-01,Credit reporting or other personal consumer reports,1112,1000.8333333333334,11.107410491257282,Stable
+2023-11-01,Credit reporting or other personal consumer reports,1078,1023.8333333333334,5.290574637799117,Stable
+2023-12-01,Credit reporting or other personal consumer reports,1127,1049.0,7.435653002859867,Stable
+2024-01-01,Credit reporting or other personal consumer reports,1412,1075.6666666666667,31.267431050511302,Moderate growth
+2024-02-01,Credit reporting or other personal consumer reports,1550,1151.8333333333333,34.56807987266677,Moderate growth
+2024-03-01,Credit reporting or other personal consumer reports,1781,1225.1666666666667,45.36797714596653,Moderate growth
+2024-04-01,Credit reporting or other personal consumer reports,1859,1343.3333333333333,38.38709677419356,Moderate growth
+2024-05-01,Credit reporting or other personal consumer reports,2135,1467.8333333333333,45.452480981037816,Moderate growth
+2024-06-01,Credit reporting or other personal consumer reports,2066,1644.0,25.669099756691,Moderate growth
+2024-07-01,Credit reporting or other personal consumer reports,2397,1800.5,33.12968619827826,Moderate growth
+2024-08-01,Credit reporting or other personal consumer reports,2744,1964.6666666666667,39.66745843230403,Moderate growth
+2024-09-01,Credit reporting or other personal consumer reports,2680,2163.6666666666665,23.863811431212454,Stable
+2024-10-01,Credit reporting or other personal consumer reports,3071,2313.5,32.74259779554787,Moderate growth
+2024-11-01,Credit reporting or other personal consumer reports,2915,2515.5,15.88153448618565,Stable
+2024-12-01,Credit reporting or other personal consumer reports,3087,2645.5,16.68871668871669,Stable
+2025-01-01,Credit reporting or other personal consumer reports,4243,2815.6666666666665,50.692553569314555,High growth
+2025-02-01,Credit reporting or other personal consumer reports,3409,3123.3333333333335,9.146211312700101,Stable
+2025-03-01,Credit reporting or other personal consumer reports,4099,3234.1666666666665,26.740530791033244,Moderate growth
+2025-04-01,Credit reporting or other personal consumer reports,4266,3470.6666666666665,22.915866308106036,Stable
+2025-05-01,Credit reporting or other personal consumer reports,4249,3669.8333333333335,15.78182478768336,Stable
+2025-06-01,Credit reporting or other personal consumer reports,4196,3892.1666666666665,7.806277566051476,Stable
+2025-07-01,Credit reporting or other personal consumer reports,4802,4077.0,17.782683345597253,Stable
+2025-08-01,Credit reporting or other personal consumer reports,5199,4170.166666666667,24.671276128052426,Stable
+2025-09-01,Credit reporting or other personal consumer reports,5209,4468.5,16.571556450710528,Stable
+2025-10-01,Credit reporting or other personal consumer reports,5396,4653.5,15.955732244547116,Stable
+2025-11-01,Credit reporting or other personal consumer reports,5170,4841.833333333333,6.777735706171911,Stable
+2025-12-01,Credit reporting or other personal consumer reports,5323,4995.333333333333,6.559455491792346,Stable
+2026-01-01,Credit reporting or other personal consumer reports,5439,5183.166666666667,4.935850027332062,Stable
+2026-02-01,Credit reporting or other personal consumer reports,4316,5289.333333333333,-18.40181497353163,Stable
+2026-03-01,Credit reporting or other personal consumer reports,4490,5142.166666666667,-12.682721291284482,Stable
+2026-04-01,Credit reporting or other personal consumer reports,3311,5022.333333333333,-34.074467379040286,Decreasing
+2026-05-01,Credit reporting or other personal consumer reports,2194,4674.833333333333,-53.0678455559913,Decreasing
+2026-06-01,Credit reporting or other personal consumer reports,2004,4178.833333333333,-52.044031428229566,Decreasing
+2013-07-01,Debt collection,10,,,Insufficient history
+2013-08-01,Debt collection,11,,,Insufficient history
+2013-09-01,Debt collection,19,,,Insufficient history
+2013-10-01,Debt collection,19,13.333333333333334,42.49999999999999,Moderate growth
+2013-11-01,Debt collection,26,14.75,76.27118644067797,High growth
+2013-12-01,Debt collection,25,17.0,47.05882352941176,Moderate growth
+2014-01-01,Debt collection,21,18.333333333333332,14.545454545454554,Stable
+2014-02-01,Debt collection,42,20.166666666666668,108.26446280991735,Critical growth
+2014-03-01,Debt collection,41,25.333333333333332,61.8421052631579,High growth
+2014-04-01,Debt collection,56,29.0,93.10344827586206,High growth
+2014-05-01,Debt collection,43,35.166666666666664,22.274881516587687,Stable
+2014-06-01,Debt collection,42,38.0,10.526315789473683,Stable
+2014-07-01,Debt collection,34,40.833333333333336,-16.734693877551024,Stable
+2014-08-01,Debt collection,26,43.0,-39.53488372093023,Decreasing
+2014-09-01,Debt collection,33,40.333333333333336,-18.181818181818187,Stable
+2014-10-01,Debt collection,33,39.0,-15.384615384615385,Stable
+2014-11-01,Debt collection,27,35.166666666666664,-23.222748815165872,Stable
+2014-12-01,Debt collection,33,32.5,1.5384615384615385,Stable
+2015-01-01,Debt collection,33,31.0,6.451612903225806,Stable
+2015-02-01,Debt collection,42,30.833333333333332,36.216216216216225,Moderate growth
+2015-03-01,Debt collection,44,33.5,31.343283582089555,Moderate growth
+2015-04-01,Debt collection,36,35.333333333333336,1.886792452830182,Stable
+2015-05-01,Debt collection,38,35.833333333333336,6.04651162790697,Stable
+2015-06-01,Debt collection,41,37.666666666666664,8.8495575221239,Stable
+2015-07-01,Debt collection,52,39.0,33.33333333333333,Moderate growth
+2015-08-01,Debt collection,55,42.166666666666664,30.43478260869566,Moderate growth
+2015-09-01,Debt collection,37,44.333333333333336,-16.541353383458652,Stable
+2015-10-01,Debt collection,40,43.166666666666664,-7.335907335907331,Stable
+2015-11-01,Debt collection,30,43.833333333333336,-31.558935361216733,Decreasing
+2015-12-01,Debt collection,40,42.5,-5.88235294117647,Stable
+2016-01-01,Debt collection,30,42.333333333333336,-29.13385826771654,Decreasing
+2016-02-01,Debt collection,38,38.666666666666664,-1.7241379310344769,Stable
+2016-03-01,Debt collection,49,35.833333333333336,36.744186046511615,Moderate growth
+2016-04-01,Debt collection,40,37.833333333333336,5.726872246696028,Stable
+2016-05-01,Debt collection,48,37.833333333333336,26.872246696035234,Moderate growth
+2016-06-01,Debt collection,30,40.833333333333336,-26.53061224489796,Decreasing
+2016-07-01,Debt collection,35,39.166666666666664,-10.63829787234042,Stable
+2016-08-01,Debt collection,51,40.0,27.500000000000004,Moderate growth
+2016-09-01,Debt collection,41,42.166666666666664,-2.7667984189723263,Stable
+2016-10-01,Debt collection,39,40.833333333333336,-4.489795918367352,Stable
+2016-11-01,Debt collection,55,40.666666666666664,35.24590163934427,Moderate growth
+2016-12-01,Debt collection,37,41.833333333333336,-11.553784860557775,Stable
+2017-01-01,Debt collection,57,43.0,32.55813953488372,Moderate growth
+2017-02-01,Debt collection,48,46.666666666666664,2.857142857142862,Stable
+2017-03-01,Debt collection,44,46.166666666666664,-4.693140794223822,Stable
+2017-04-01,Debt collection,48,46.666666666666664,2.857142857142862,Stable
+2017-05-01,Debt collection,49,48.166666666666664,1.7301038062283787,Stable
+2017-06-01,Debt collection,28,47.166666666666664,-40.63604240282685,Decreasing
+2017-07-01,Debt collection,44,45.666666666666664,-3.649635036496345,Stable
+2017-08-01,Debt collection,46,43.5,5.747126436781609,Stable
+2017-09-01,Debt collection,43,43.166666666666664,-0.38610038610038067,Stable
+2017-10-01,Debt collection,37,43.0,-13.953488372093023,Stable
+2017-11-01,Debt collection,40,41.166666666666664,-2.8340080971659862,Stable
+2017-12-01,Debt collection,51,39.666666666666664,28.57142857142858,Moderate growth
+2018-01-01,Debt collection,62,43.5,42.5287356321839,Moderate growth
+2018-02-01,Debt collection,51,46.5,9.67741935483871,Stable
+2018-03-01,Debt collection,70,47.333333333333336,47.88732394366196,Moderate growth
+2018-04-01,Debt collection,49,51.833333333333336,-5.4662379421221905,Stable
+2018-05-01,Debt collection,62,53.833333333333336,15.170278637770892,Stable
+2018-06-01,Debt collection,50,57.5,-13.043478260869565,Stable
+2018-07-01,Debt collection,47,57.333333333333336,-18.023255813953494,Stable
+2018-08-01,Debt collection,48,54.833333333333336,-12.46200607902736,Stable
+2018-09-01,Debt collection,39,54.333333333333336,-28.220858895705526,Decreasing
+2018-10-01,Debt collection,51,49.166666666666664,3.728813559322039,Stable
+2018-11-01,Debt collection,50,49.5,1.0101010101010102,Stable
+2018-12-01,Debt collection,28,47.5,-41.05263157894737,Decreasing
+2019-01-01,Debt collection,25,43.833333333333336,-42.96577946768061,Decreasing
+2019-02-01,Debt collection,49,40.166666666666664,21.991701244813285,Stable
+2019-03-01,Debt collection,55,40.333333333333336,36.36363636363635,Moderate growth
+2019-04-01,Debt collection,46,43.0,6.976744186046512,Stable
+2019-05-01,Debt collection,32,42.166666666666664,-24.11067193675889,Stable
+2019-06-01,Debt collection,43,39.166666666666664,9.787234042553198,Stable
+2019-07-01,Debt collection,44,41.666666666666664,5.600000000000006,Stable
+2019-08-01,Debt collection,55,44.833333333333336,22.67657992565055,Stable
+2019-09-01,Debt collection,57,45.833333333333336,24.363636363636356,Stable
+2019-10-01,Debt collection,46,46.166666666666664,-0.36101083032490466,Stable
+2019-11-01,Debt collection,39,46.166666666666664,-15.523465703971114,Stable
+2019-12-01,Debt collection,44,47.333333333333336,-7.042253521126765,Stable
+2020-01-01,Debt collection,42,47.5,-11.578947368421053,Stable
+2020-02-01,Debt collection,45,47.166666666666664,-4.593639575971727,Stable
+2020-03-01,Debt collection,43,45.5,-5.4945054945054945,Stable
+2020-04-01,Debt collection,56,43.166666666666664,29.729729729729737,Moderate growth
+2020-05-01,Debt collection,56,44.833333333333336,24.907063197026016,Stable
+2020-06-01,Debt collection,49,47.666666666666664,2.7972027972028024,Stable
+2020-07-01,Debt collection,52,48.5,7.216494845360824,Stable
+2020-08-01,Debt collection,60,50.166666666666664,19.60132890365449,Stable
+2020-09-01,Debt collection,56,52.666666666666664,6.329113924050637,Stable
+2020-10-01,Debt collection,53,54.833333333333336,-3.3434650455927093,Stable
+2020-11-01,Debt collection,58,54.333333333333336,6.748466257668707,Stable
+2020-12-01,Debt collection,54,54.666666666666664,-1.219512195121947,Stable
+2021-01-01,Debt collection,54,55.5,-2.7027027027027026,Stable
+2021-02-01,Debt collection,58,55.833333333333336,3.880597014925369,Stable
+2021-03-01,Debt collection,80,55.5,44.14414414414414,Moderate growth
+2021-04-01,Debt collection,77,59.5,29.411764705882355,Moderate growth
+2021-05-01,Debt collection,64,63.5,0.7874015748031495,Stable
+2021-06-01,Debt collection,65,64.5,0.7751937984496124,Stable
+2021-07-01,Debt collection,83,66.33333333333333,25.125628140703526,Moderate growth
+2021-08-01,Debt collection,72,71.16666666666667,1.1709601873536233,Stable
+2021-09-01,Debt collection,74,73.5,0.6802721088435374,Stable
+2021-10-01,Debt collection,62,72.5,-14.482758620689657,Stable
+2021-11-01,Debt collection,77,70.0,10.0,Stable
+2021-12-01,Debt collection,51,72.16666666666667,-29.33025404157044,Decreasing
+2022-01-01,Debt collection,68,69.83333333333333,-2.6252983293556023,Stable
+2022-02-01,Debt collection,75,67.33333333333333,11.386138613861393,Stable
+2022-03-01,Debt collection,61,67.83333333333333,-10.073710073710068,Stable
+2022-04-01,Debt collection,65,65.66666666666667,-1.0152284263959463,Stable
+2022-05-01,Debt collection,43,66.16666666666667,-35.012594458438286,Decreasing
+2022-06-01,Debt collection,60,60.5,-0.8264462809917356,Stable
+2022-07-01,Debt collection,43,62.0,-30.64516129032258,Decreasing
+2022-08-01,Debt collection,58,57.833333333333336,0.2881844380403417,Stable
+2022-09-01,Debt collection,50,55.0,-9.090909090909092,Stable
+2022-10-01,Debt collection,58,53.166666666666664,9.090909090909095,Stable
+2022-11-01,Debt collection,43,52.0,-17.307692307692307,Stable
+2022-12-01,Debt collection,59,52.0,13.461538461538462,Stable
+2023-01-01,Debt collection,68,51.833333333333336,31.18971061093247,Moderate growth
+2023-02-01,Debt collection,63,56.0,12.5,Stable
+2023-03-01,Debt collection,75,56.833333333333336,31.964809384164216,Moderate growth
+2023-04-01,Debt collection,60,61.0,-1.639344262295082,Stable
+2023-05-01,Debt collection,74,61.333333333333336,20.652173913043473,Stable
+2023-06-01,Debt collection,70,66.5,5.263157894736842,Stable
+2023-07-01,Debt collection,67,68.33333333333333,-1.951219512195115,Stable
+2023-08-01,Debt collection,66,68.16666666666667,-3.178484107579469,Stable
+2023-09-01,Debt collection,71,68.66666666666667,3.3980582524271776,Stable
+2023-10-01,Debt collection,64,68.0,-5.88235294117647,Stable
+2023-11-01,Debt collection,55,68.66666666666667,-19.902912621359228,Stable
+2023-12-01,Debt collection,55,65.5,-16.030534351145036,Stable
+2024-01-01,Debt collection,79,63.0,25.396825396825395,Moderate growth
+2024-02-01,Debt collection,109,65.0,67.6923076923077,High growth
+2024-03-01,Debt collection,150,72.16666666666667,107.85219399538104,Critical growth
+2024-04-01,Debt collection,147,85.33333333333333,72.26562500000001,High growth
+2024-05-01,Debt collection,150,99.16666666666667,51.26050420168067,High growth
+2024-06-01,Debt collection,140,115.0,21.73913043478261,Stable
+2024-07-01,Debt collection,136,129.16666666666666,5.290322580645169,Stable
+2024-08-01,Debt collection,149,138.66666666666666,7.451923076923084,Stable
+2024-09-01,Debt collection,174,145.33333333333334,19.72477064220183,Stable
+2024-10-01,Debt collection,187,149.33333333333334,25.223214285714278,Moderate growth
+2024-11-01,Debt collection,191,156.0,22.435897435897438,Stable
+2024-12-01,Debt collection,201,162.83333333333334,23.439099283520974,Stable
+2025-01-01,Debt collection,263,173.0,52.02312138728323,High growth
+2025-02-01,Debt collection,199,194.16666666666666,2.4892703862660994,Stable
+2025-03-01,Debt collection,242,202.5,19.50617283950617,Stable
+2025-04-01,Debt collection,219,213.83333333333334,2.416212003117688,Stable
+2025-05-01,Debt collection,279,219.16666666666666,27.300380228136888,Moderate growth
+2025-06-01,Debt collection,249,233.83333333333334,6.486101211689233,Stable
+2025-07-01,Debt collection,299,241.83333333333334,23.63886974500344,Stable
+2025-08-01,Debt collection,297,247.83333333333334,19.838601210490918,Stable
+2025-09-01,Debt collection,334,264.1666666666667,26.435331230283904,Moderate growth
+2025-10-01,Debt collection,297,279.5,6.261180679785331,Stable
+2025-11-01,Debt collection,277,292.5,-5.299145299145299,Stable
+2025-12-01,Debt collection,371,292.1666666666667,26.982316029663426,Moderate growth
+2026-01-01,Debt collection,357,312.5,14.24,Stable
+2026-02-01,Debt collection,282,322.1666666666667,-12.467666839110196,Stable
+2026-03-01,Debt collection,319,319.6666666666667,-0.20855057351408307,Stable
+2026-04-01,Debt collection,194,317.1666666666667,-38.83342091434577,Decreasing
+2026-05-01,Debt collection,125,300.0,-58.333333333333336,Decreasing
+2026-06-01,Debt collection,83,274.6666666666667,-69.78155339805825,Decreasing
+2017-04-01,"Money transfer, virtual currency, or money service",1,,,Insufficient history
+2017-05-01,"Money transfer, virtual currency, or money service",5,,,Insufficient history
+2017-06-01,"Money transfer, virtual currency, or money service",7,,,Insufficient history
+2017-07-01,"Money transfer, virtual currency, or money service",7,4.333333333333333,61.538461538461554,High growth
+2017-08-01,"Money transfer, virtual currency, or money service",6,5.0,20.0,Stable
+2017-09-01,"Money transfer, virtual currency, or money service",6,5.2,15.38461538461538,Stable
+2017-10-01,"Money transfer, virtual currency, or money service",6,5.333333333333333,12.500000000000005,Stable
+2017-11-01,"Money transfer, virtual currency, or money service",8,6.166666666666667,29.729729729729726,Moderate growth
+2017-12-01,"Money transfer, virtual currency, or money service",7,6.666666666666667,4.999999999999996,Stable
+2018-01-01,"Money transfer, virtual currency, or money service",9,6.666666666666667,34.99999999999999,Moderate growth
+2018-02-01,"Money transfer, virtual currency, or money service",12,7.0,71.42857142857143,High growth
+2018-03-01,"Money transfer, virtual currency, or money service",6,8.0,-25.0,Decreasing
+2018-04-01,"Money transfer, virtual currency, or money service",10,8.0,25.0,Moderate growth
+2018-05-01,"Money transfer, virtual currency, or money service",7,8.666666666666666,-19.230769230769226,Stable
+2018-06-01,"Money transfer, virtual currency, or money service",1,8.5,-88.23529411764706,Decreasing
+2018-07-01,"Money transfer, virtual currency, or money service",3,7.5,-60.0,Decreasing
+2018-08-01,"Money transfer, virtual currency, or money service",2,6.5,-69.23076923076923,Decreasing
+2018-09-01,"Money transfer, virtual currency, or money service",5,4.833333333333333,3.4482758620689715,Stable
+2018-10-01,"Money transfer, virtual currency, or money service",4,4.666666666666667,-14.28571428571429,Stable
+2018-11-01,"Money transfer, virtual currency, or money service",3,3.6666666666666665,-18.18181818181818,Stable
+2018-12-01,"Money transfer, virtual currency, or money service",6,3.0,100.0,Critical growth
+2019-01-01,"Money transfer, virtual currency, or money service",2,3.8333333333333335,-47.82608695652174,Decreasing
+2019-02-01,"Money transfer, virtual currency, or money service",4,3.6666666666666665,9.090909090909095,Stable
+2019-03-01,"Money transfer, virtual currency, or money service",7,4.0,75.0,High growth
+2019-04-01,"Money transfer, virtual currency, or money service",7,4.333333333333333,61.538461538461554,High growth
+2019-05-01,"Money transfer, virtual currency, or money service",7,4.833333333333333,44.827586206896555,Moderate growth
+2019-06-01,"Money transfer, virtual currency, or money service",2,5.5,-63.63636363636363,Decreasing
+2019-07-01,"Money transfer, virtual currency, or money service",10,4.833333333333333,106.89655172413795,Critical growth
+2019-08-01,"Money transfer, virtual currency, or money service",4,6.166666666666667,-35.13513513513514,Decreasing
+2019-09-01,"Money transfer, virtual currency, or money service",4,6.166666666666667,-35.13513513513514,Decreasing
+2019-10-01,"Money transfer, virtual currency, or money service",1,5.666666666666667,-82.35294117647058,Decreasing
+2019-11-01,"Money transfer, virtual currency, or money service",2,4.666666666666667,-57.14285714285715,Decreasing
+2019-12-01,"Money transfer, virtual currency, or money service",3,3.8333333333333335,-21.73913043478261,Stable
+2020-01-01,"Money transfer, virtual currency, or money service",7,4.0,75.0,High growth
+2020-02-01,"Money transfer, virtual currency, or money service",3,3.5,-14.285714285714285,Stable
+2020-03-01,"Money transfer, virtual currency, or money service",6,3.3333333333333335,80.0,High growth
+2020-04-01,"Money transfer, virtual currency, or money service",5,3.6666666666666665,36.36363636363637,Moderate growth
+2020-05-01,"Money transfer, virtual currency, or money service",12,4.333333333333333,176.92307692307693,Critical growth
+2020-06-01,"Money transfer, virtual currency, or money service",18,6.0,200.0,Critical growth
+2020-07-01,"Money transfer, virtual currency, or money service",16,8.5,88.23529411764706,High growth
+2020-08-01,"Money transfer, virtual currency, or money service",6,10.0,-40.0,Decreasing
+2020-09-01,"Money transfer, virtual currency, or money service",4,10.5,-61.904761904761905,Decreasing
+2020-10-01,"Money transfer, virtual currency, or money service",9,10.166666666666666,-11.475409836065568,Stable
+2020-11-01,"Money transfer, virtual currency, or money service",9,10.833333333333334,-16.923076923076927,Stable
+2020-12-01,"Money transfer, virtual currency, or money service",11,10.333333333333334,6.451612903225801,Stable
+2021-01-01,"Money transfer, virtual currency, or money service",5,9.166666666666666,-45.45454545454545,Decreasing
+2021-02-01,"Money transfer, virtual currency, or money service",10,7.333333333333333,36.36363636363637,Moderate growth
+2021-03-01,"Money transfer, virtual currency, or money service",21,8.0,162.5,Critical growth
+2021-04-01,"Money transfer, virtual currency, or money service",28,10.833333333333334,158.46153846153842,Critical growth
+2021-05-01,"Money transfer, virtual currency, or money service",22,14.0,57.14285714285714,High growth
+2021-06-01,"Money transfer, virtual currency, or money service",10,16.166666666666668,-38.14432989690722,Decreasing
+2021-07-01,"Money transfer, virtual currency, or money service",8,16.0,-50.0,Decreasing
+2021-08-01,"Money transfer, virtual currency, or money service",10,16.5,-39.39393939393939,Decreasing
+2021-09-01,"Money transfer, virtual currency, or money service",12,16.5,-27.27272727272727,Decreasing
+2021-10-01,"Money transfer, virtual currency, or money service",10,15.0,-33.33333333333333,Decreasing
+2021-11-01,"Money transfer, virtual currency, or money service",14,12.0,16.666666666666664,Stable
+2021-12-01,"Money transfer, virtual currency, or money service",12,10.666666666666666,12.500000000000005,Stable
+2022-01-01,"Money transfer, virtual currency, or money service",10,11.0,-9.090909090909092,Stable
+2022-02-01,"Money transfer, virtual currency, or money service",10,11.333333333333334,-11.764705882352946,Stable
+2022-03-01,"Money transfer, virtual currency, or money service",15,11.333333333333334,32.35294117647058,Moderate growth
+2022-04-01,"Money transfer, virtual currency, or money service",17,11.833333333333334,43.661971830985905,Moderate growth
+2022-05-01,"Money transfer, virtual currency, or money service",9,13.0,-30.76923076923077,Decreasing
+2022-06-01,"Money transfer, virtual currency, or money service",15,12.166666666666666,23.28767123287672,Stable
+2022-07-01,"Money transfer, virtual currency, or money service",20,12.666666666666666,57.89473684210527,High growth
+2022-08-01,"Money transfer, virtual currency, or money service",17,14.333333333333334,18.60465116279069,Stable
+2022-09-01,"Money transfer, virtual currency, or money service",15,15.5,-3.225806451612903,Stable
+2022-10-01,"Money transfer, virtual currency, or money service",9,15.5,-41.935483870967744,Decreasing
+2022-11-01,"Money transfer, virtual currency, or money service",14,14.166666666666666,-1.17647058823529,Stable
+2022-12-01,"Money transfer, virtual currency, or money service",17,15.0,13.333333333333334,Stable
+2023-01-01,"Money transfer, virtual currency, or money service",10,15.333333333333334,-34.78260869565218,Decreasing
+2023-02-01,"Money transfer, virtual currency, or money service",10,13.666666666666666,-26.829268292682922,Decreasing
+2023-03-01,"Money transfer, virtual currency, or money service",10,12.5,-20.0,Stable
+2023-04-01,"Money transfer, virtual currency, or money service",6,11.666666666666666,-48.57142857142857,Decreasing
+2023-05-01,"Money transfer, virtual currency, or money service",8,11.166666666666666,-28.35820895522388,Decreasing
+2023-06-01,"Money transfer, virtual currency, or money service",21,10.166666666666666,106.55737704918033,Critical growth
+2023-07-01,"Money transfer, virtual currency, or money service",17,10.833333333333334,56.92307692307691,High growth
+2023-08-01,"Money transfer, virtual currency, or money service",18,12.0,50.0,High growth
+2023-09-01,"Money transfer, virtual currency, or money service",15,13.333333333333334,12.499999999999995,Stable
+2023-10-01,"Money transfer, virtual currency, or money service",14,14.166666666666666,-1.17647058823529,Stable
+2023-11-01,"Money transfer, virtual currency, or money service",11,15.5,-29.03225806451613,Decreasing
+2023-12-01,"Money transfer, virtual currency, or money service",11,16.0,-31.25,Decreasing
+2024-01-01,"Money transfer, virtual currency, or money service",12,14.333333333333334,-16.279069767441865,Stable
+2024-02-01,"Money transfer, virtual currency, or money service",5,13.5,-62.96296296296296,Decreasing
+2024-03-01,"Money transfer, virtual currency, or money service",18,11.333333333333334,58.823529411764696,High growth
+2024-04-01,"Money transfer, virtual currency, or money service",18,11.833333333333334,52.112676056338024,High growth
+2024-05-01,"Money transfer, virtual currency, or money service",19,12.5,52.0,High growth
+2024-06-01,"Money transfer, virtual currency, or money service",23,13.833333333333334,66.26506024096385,High growth
+2024-07-01,"Money transfer, virtual currency, or money service",19,15.833333333333334,19.999999999999996,Stable
+2024-08-01,"Money transfer, virtual currency, or money service",23,17.0,35.294117647058826,Moderate growth
+2024-09-01,"Money transfer, virtual currency, or money service",19,20.0,-5.0,Stable
+2024-10-01,"Money transfer, virtual currency, or money service",13,20.166666666666668,-35.537190082644635,Decreasing
+2024-11-01,"Money transfer, virtual currency, or money service",15,19.333333333333332,-22.41379310344827,Stable
+2024-12-01,"Money transfer, virtual currency, or money service",18,18.666666666666668,-3.5714285714285774,Stable
+2025-01-01,"Money transfer, virtual currency, or money service",616,17.833333333333332,3354.2056074766356,Critical growth
+2025-02-01,"Money transfer, virtual currency, or money service",70,117.33333333333333,-40.340909090909086,Decreasing
+2025-03-01,"Money transfer, virtual currency, or money service",38,125.16666666666667,-69.6404793608522,Decreasing
+2025-04-01,"Money transfer, virtual currency, or money service",32,128.33333333333334,-75.06493506493507,Decreasing
+2025-05-01,"Money transfer, virtual currency, or money service",31,131.5,-76.42585551330798,Decreasing
+2025-06-01,"Money transfer, virtual currency, or money service",25,134.16666666666666,-81.36645962732919,Decreasing
+2025-07-01,"Money transfer, virtual currency, or money service",33,135.33333333333334,-75.61576354679804,Decreasing
+2025-08-01,"Money transfer, virtual currency, or money service",31,38.166666666666664,-18.777292576419207,Stable
+2025-09-01,"Money transfer, virtual currency, or money service",38,31.666666666666668,19.999999999999996,Stable
+2025-10-01,"Money transfer, virtual currency, or money service",27,31.666666666666668,-14.736842105263163,Stable
+2025-11-01,"Money transfer, virtual currency, or money service",31,30.833333333333332,0.5405405405405443,Stable
+2025-12-01,"Money transfer, virtual currency, or money service",42,30.833333333333332,36.216216216216225,Moderate growth
+2026-01-01,"Money transfer, virtual currency, or money service",47,33.666666666666664,39.60396039603961,Moderate growth
+2026-02-01,"Money transfer, virtual currency, or money service",19,36.0,-47.22222222222222,Decreasing
+2026-03-01,"Money transfer, virtual currency, or money service",27,34.0,-20.588235294117645,Stable
+2026-04-01,"Money transfer, virtual currency, or money service",22,32.166666666666664,-31.606217616580306,Decreasing
+2026-05-01,"Money transfer, virtual currency, or money service",15,31.333333333333332,-52.12765957446809,Decreasing
+2026-06-01,"Money transfer, virtual currency, or money service",3,28.666666666666668,-89.53488372093024,Decreasing
+2011-12-01,Mortgage,15,,,Insufficient history
+2012-01-01,Mortgage,22,,,Insufficient history
+2012-02-01,Mortgage,17,,,Insufficient history
+2012-03-01,Mortgage,40,18.0,122.22222222222223,Critical growth
+2012-04-01,Mortgage,29,23.5,23.404255319148938,Stable
+2012-05-01,Mortgage,51,24.6,107.31707317073169,Critical growth
+2012-06-01,Mortgage,43,29.0,48.275862068965516,Moderate growth
+2012-07-01,Mortgage,35,33.666666666666664,3.9603960396039675,Stable
+2012-08-01,Mortgage,43,35.833333333333336,19.999999999999993,Stable
+2012-09-01,Mortgage,37,40.166666666666664,-7.883817427385886,Stable
+2012-10-01,Mortgage,28,39.666666666666664,-29.411764705882348,Decreasing
+2012-11-01,Mortgage,35,39.5,-11.39240506329114,Stable
+2012-12-01,Mortgage,35,36.833333333333336,-4.977375565610866,Stable
+2013-01-01,Mortgage,60,35.5,69.01408450704226,High growth
+2013-02-01,Mortgage,49,39.666666666666664,23.52941176470589,Stable
+2013-03-01,Mortgage,55,40.666666666666664,35.24590163934427,Moderate growth
+2013-04-01,Mortgage,57,43.666666666666664,30.534351145038173,Moderate growth
+2013-05-01,Mortgage,50,48.5,3.0927835051546393,Stable
+2013-06-01,Mortgage,46,51.0,-9.803921568627452,Stable
+2013-07-01,Mortgage,52,52.833333333333336,-1.5772870662460612,Stable
+2013-08-01,Mortgage,61,51.5,18.446601941747574,Stable
+2013-09-01,Mortgage,47,53.5,-12.149532710280374,Stable
+2013-10-01,Mortgage,36,52.166666666666664,-30.990415335463258,Decreasing
+2013-11-01,Mortgage,31,48.666666666666664,-36.3013698630137,Decreasing
+2013-12-01,Mortgage,35,45.5,-23.076923076923077,Stable
+2014-01-01,Mortgage,35,43.666666666666664,-19.847328244274806,Stable
+2014-02-01,Mortgage,56,40.833333333333336,37.14285714285713,Moderate growth
+2014-03-01,Mortgage,55,40.0,37.5,Moderate growth
+2014-04-01,Mortgage,34,41.333333333333336,-17.74193548387097,Stable
+2014-05-01,Mortgage,48,41.0,17.073170731707318,Stable
+2014-06-01,Mortgage,49,43.833333333333336,11.787072243346001,Stable
+2014-07-01,Mortgage,36,46.166666666666664,-22.02166064981949,Stable
+2014-08-01,Mortgage,55,46.333333333333336,18.705035971223015,Stable
+2014-09-01,Mortgage,36,46.166666666666664,-22.02166064981949,Stable
+2014-10-01,Mortgage,39,43.0,-9.30232558139535,Stable
+2014-11-01,Mortgage,31,43.833333333333336,-29.27756653992396,Decreasing
+2014-12-01,Mortgage,34,41.0,-17.073170731707318,Stable
+2015-01-01,Mortgage,32,38.5,-16.883116883116884,Stable
+2015-02-01,Mortgage,36,37.833333333333336,-4.845814977973574,Stable
+2015-03-01,Mortgage,42,34.666666666666664,21.15384615384616,Stable
+2015-04-01,Mortgage,45,35.666666666666664,26.16822429906543,Moderate growth
+2015-05-01,Mortgage,31,36.666666666666664,-15.454545454545448,Stable
+2015-06-01,Mortgage,57,36.666666666666664,55.45454545454547,High growth
+2015-07-01,Mortgage,47,40.5,16.049382716049383,Stable
+2015-08-01,Mortgage,49,43.0,13.953488372093023,Stable
+2015-09-01,Mortgage,32,45.166666666666664,-29.151291512915122,Decreasing
+2015-10-01,Mortgage,43,43.5,-1.1494252873563218,Stable
+2015-11-01,Mortgage,44,43.166666666666664,1.930501930501936,Stable
+2015-12-01,Mortgage,34,45.333333333333336,-25.000000000000007,Decreasing
+2016-01-01,Mortgage,39,41.5,-6.024096385542169,Stable
+2016-02-01,Mortgage,45,40.166666666666664,12.033195020746895,Stable
+2016-03-01,Mortgage,46,39.5,16.455696202531644,Stable
+2016-04-01,Mortgage,37,41.833333333333336,-11.553784860557775,Stable
+2016-05-01,Mortgage,48,40.833333333333336,17.55102040816326,Stable
+2016-06-01,Mortgage,29,41.5,-30.120481927710845,Decreasing
+2016-07-01,Mortgage,39,40.666666666666664,-4.098360655737699,Stable
+2016-08-01,Mortgage,41,40.666666666666664,0.8196721311475469,Stable
+2016-09-01,Mortgage,33,40.0,-17.5,Stable
+2016-10-01,Mortgage,35,37.833333333333336,-7.488986784140975,Stable
+2016-11-01,Mortgage,47,37.5,25.333333333333336,Moderate growth
+2016-12-01,Mortgage,35,37.333333333333336,-6.250000000000005,Stable
+2017-01-01,Mortgage,36,38.333333333333336,-6.086956521739136,Stable
+2017-02-01,Mortgage,41,37.833333333333336,8.37004405286343,Stable
+2017-03-01,Mortgage,41,37.833333333333336,8.37004405286343,Stable
+2017-04-01,Mortgage,32,39.166666666666664,-18.297872340425528,Stable
+2017-05-01,Mortgage,33,38.666666666666664,-14.6551724137931,Stable
+2017-06-01,Mortgage,23,36.333333333333336,-36.69724770642202,Decreasing
+2017-07-01,Mortgage,23,34.333333333333336,-33.00970873786408,Decreasing
+2017-08-01,Mortgage,25,32.166666666666664,-22.279792746113984,Stable
+2017-09-01,Mortgage,28,29.5,-5.084745762711865,Stable
+2017-10-01,Mortgage,18,27.333333333333332,-34.14634146341463,Decreasing
+2017-11-01,Mortgage,21,25.0,-16.0,Stable
+2017-12-01,Mortgage,22,23.0,-4.3478260869565215,Stable
+2018-01-01,Mortgage,26,22.833333333333332,13.868613138686136,Stable
+2018-02-01,Mortgage,23,23.333333333333332,-1.4285714285714235,Stable
+2018-03-01,Mortgage,29,23.0,26.08695652173913,Moderate growth
+2018-04-01,Mortgage,37,23.166666666666668,59.71223021582733,High growth
+2018-05-01,Mortgage,28,26.333333333333332,6.329113924050637,Stable
+2018-06-01,Mortgage,26,27.5,-5.454545454545454,Stable
+2018-07-01,Mortgage,24,28.166666666666668,-14.792899408284027,Stable
+2018-08-01,Mortgage,24,27.833333333333332,-13.772455089820356,Stable
+2018-09-01,Mortgage,26,28.0,-7.142857142857142,Stable
+2018-10-01,Mortgage,26,27.5,-5.454545454545454,Stable
+2018-11-01,Mortgage,19,25.666666666666668,-25.974025974025977,Decreasing
+2018-12-01,Mortgage,21,24.166666666666668,-13.103448275862073,Stable
+2019-01-01,Mortgage,20,23.333333333333332,-14.285714285714283,Stable
+2019-02-01,Mortgage,23,22.666666666666668,1.4705882352941124,Stable
+2019-03-01,Mortgage,21,22.5,-6.666666666666667,Stable
+2019-04-01,Mortgage,32,21.666666666666668,47.692307692307686,Moderate growth
+2019-05-01,Mortgage,18,22.666666666666668,-20.588235294117652,Stable
+2019-06-01,Mortgage,19,22.5,-15.555555555555555,Stable
+2019-07-01,Mortgage,21,22.166666666666668,-5.263157894736848,Stable
+2019-08-01,Mortgage,28,22.333333333333332,25.373134328358216,Moderate growth
+2019-09-01,Mortgage,25,23.166666666666668,7.913669064748195,Stable
+2019-10-01,Mortgage,30,23.833333333333332,25.87412587412588,Moderate growth
+2019-11-01,Mortgage,25,23.5,6.382978723404255,Stable
+2019-12-01,Mortgage,18,24.666666666666668,-27.027027027027028,Decreasing
+2020-01-01,Mortgage,27,24.5,10.204081632653061,Stable
+2020-02-01,Mortgage,15,25.5,-41.17647058823529,Decreasing
+2020-03-01,Mortgage,32,23.333333333333332,37.14285714285715,Moderate growth
+2020-04-01,Mortgage,35,24.5,42.857142857142854,Moderate growth
+2020-05-01,Mortgage,29,25.333333333333332,14.473684210526322,Stable
+2020-06-01,Mortgage,20,26.0,-23.076923076923077,Stable
+2020-07-01,Mortgage,25,26.333333333333332,-5.063291139240502,Stable
+2020-08-01,Mortgage,30,26.0,15.384615384615385,Stable
+2020-09-01,Mortgage,23,28.5,-19.298245614035086,Stable
+2020-10-01,Mortgage,28,27.0,3.7037037037037033,Stable
+2020-11-01,Mortgage,17,25.833333333333332,-34.193548387096776,Decreasing
+2020-12-01,Mortgage,29,23.833333333333332,21.678321678321684,Stable
+2021-01-01,Mortgage,32,25.333333333333332,26.315789473684216,Moderate growth
+2021-02-01,Mortgage,28,26.5,5.660377358490567,Stable
+2021-03-01,Mortgage,31,26.166666666666668,18.47133757961783,Stable
+2021-04-01,Mortgage,32,27.5,16.363636363636363,Stable
+2021-05-01,Mortgage,29,28.166666666666668,2.9585798816568003,Stable
+2021-06-01,Mortgage,23,30.166666666666668,-23.75690607734807,Stable
+2021-07-01,Mortgage,34,29.166666666666668,16.571428571428566,Stable
+2021-08-01,Mortgage,20,29.5,-32.20338983050847,Decreasing
+2021-09-01,Mortgage,20,28.166666666666668,-28.99408284023669,Decreasing
+2021-10-01,Mortgage,15,26.333333333333332,-43.0379746835443,Decreasing
+2021-11-01,Mortgage,10,23.5,-57.446808510638306,Decreasing
+2021-12-01,Mortgage,15,20.333333333333332,-26.22950819672131,Decreasing
+2022-01-01,Mortgage,20,19.0,5.263157894736842,Stable
+2022-02-01,Mortgage,30,16.666666666666668,79.99999999999999,High growth
+2022-03-01,Mortgage,34,18.333333333333332,85.45454545454547,High growth
+2022-04-01,Mortgage,25,20.666666666666668,20.967741935483865,Stable
+2022-05-01,Mortgage,14,22.333333333333332,-37.31343283582089,Decreasing
+2022-06-01,Mortgage,29,23.0,26.08695652173913,Moderate growth
+2022-07-01,Mortgage,19,25.333333333333332,-24.999999999999996,Stable
+2022-08-01,Mortgage,23,25.166666666666668,-8.609271523178812,Stable
+2022-09-01,Mortgage,22,24.0,-8.333333333333332,Stable
+2022-10-01,Mortgage,13,22.0,-40.909090909090914,Decreasing
+2022-11-01,Mortgage,11,20.0,-45.0,Decreasing
+2022-12-01,Mortgage,30,19.5,53.84615384615385,High growth
+2023-01-01,Mortgage,24,19.666666666666668,22.03389830508474,Stable
+2023-02-01,Mortgage,18,20.5,-12.195121951219512,Stable
+2023-03-01,Mortgage,25,19.666666666666668,27.118644067796605,Moderate growth
+2023-04-01,Mortgage,19,20.166666666666668,-5.785123966942154,Stable
+2023-05-01,Mortgage,29,21.166666666666668,37.00787401574802,Moderate growth
+2023-06-01,Mortgage,17,24.166666666666668,-29.655172413793107,Decreasing
+2023-07-01,Mortgage,22,22.0,0.0,Stable
+2023-08-01,Mortgage,17,21.666666666666668,-21.538461538461544,Stable
+2023-09-01,Mortgage,14,21.5,-34.883720930232556,Decreasing
+2023-10-01,Mortgage,22,19.666666666666668,11.86440677966101,Stable
+2023-11-01,Mortgage,9,20.166666666666668,-55.371900826446286,Decreasing
+2023-12-01,Mortgage,23,16.833333333333332,36.63366336633664,Moderate growth
+2024-01-01,Mortgage,21,17.833333333333332,17.7570093457944,Stable
+2024-02-01,Mortgage,22,17.666666666666668,24.528301886792445,Stable
+2024-03-01,Mortgage,22,18.5,18.91891891891892,Stable
+2024-04-01,Mortgage,20,19.833333333333332,0.8403361344537875,Stable
+2024-05-01,Mortgage,17,19.5,-12.82051282051282,Stable
+2024-06-01,Mortgage,16,20.833333333333332,-23.199999999999996,Stable
+2024-07-01,Mortgage,23,19.666666666666668,16.949152542372875,Stable
+2024-08-01,Mortgage,16,20.0,-20.0,Stable
+2024-09-01,Mortgage,17,19.0,-10.526315789473683,Stable
+2024-10-01,Mortgage,20,18.166666666666668,10.091743119266047,Stable
+2024-11-01,Mortgage,17,18.166666666666668,-6.422018348623859,Stable
+2024-12-01,Mortgage,28,18.166666666666668,54.12844036697246,High growth
+2025-01-01,Mortgage,41,20.166666666666668,103.30578512396693,Critical growth
+2025-02-01,Mortgage,21,23.166666666666668,-9.352517985611515,Stable
+2025-03-01,Mortgage,21,24.0,-12.5,Stable
+2025-04-01,Mortgage,18,24.666666666666668,-27.027027027027028,Decreasing
+2025-05-01,Mortgage,18,24.333333333333332,-26.027397260273972,Decreasing
+2025-06-01,Mortgage,25,24.5,2.0408163265306123,Stable
+2025-07-01,Mortgage,30,24.0,25.0,Moderate growth
+2025-08-01,Mortgage,16,22.166666666666668,-27.819548872180455,Decreasing
+2025-09-01,Mortgage,30,21.333333333333332,40.62500000000001,Moderate growth
+2025-10-01,Mortgage,26,22.833333333333332,13.868613138686136,Stable
+2025-11-01,Mortgage,25,24.166666666666668,3.4482758620689604,Stable
+2025-12-01,Mortgage,38,25.333333333333332,50.000000000000014,High growth
+2026-01-01,Mortgage,41,27.5,49.09090909090909,Moderate growth
+2026-02-01,Mortgage,21,29.333333333333332,-28.409090909090907,Decreasing
+2026-03-01,Mortgage,27,30.166666666666668,-10.497237569060777,Stable
+2026-04-01,Mortgage,21,29.666666666666668,-29.21348314606742,Decreasing
+2026-05-01,Mortgage,10,28.833333333333332,-65.3179190751445,Decreasing
+2026-06-01,Mortgage,3,26.333333333333332,-88.60759493670885,Decreasing
+2012-03-01,Student loan,8,,,Insufficient history
+2012-04-01,Student loan,2,,,Insufficient history
+2012-05-01,Student loan,4,,,Insufficient history
+2012-06-01,Student loan,2,4.666666666666667,-57.14285714285715,Decreasing
+2012-07-01,Student loan,3,4.0,-25.0,Decreasing
+2012-09-01,Student loan,3,3.8,-21.052631578947363,Stable
+2012-10-01,Student loan,2,3.6666666666666665,-45.45454545454545,Decreasing
+2012-11-01,Student loan,1,2.6666666666666665,-62.5,Decreasing
+2012-12-01,Student loan,2,2.5,-20.0,Stable
+2013-01-01,Student loan,5,2.1666666666666665,130.7692307692308,Critical growth
+2013-02-01,Student loan,1,2.6666666666666665,-62.5,Decreasing
+2013-03-01,Student loan,3,2.3333333333333335,28.571428571428566,Moderate growth
+2013-04-01,Student loan,3,2.3333333333333335,28.571428571428566,Moderate growth
+2013-05-01,Student loan,1,2.5,-60.0,Decreasing
+2013-06-01,Student loan,3,2.5,20.0,Stable
+2013-07-01,Student loan,5,2.6666666666666665,87.50000000000001,High growth
+2013-08-01,Student loan,3,2.6666666666666665,12.500000000000005,Stable
+2013-09-01,Student loan,3,3.0,0.0,Stable
+2013-10-01,Student loan,5,3.0,66.66666666666666,High growth
+2013-11-01,Student loan,5,3.3333333333333335,49.99999999999999,Moderate growth
+2013-12-01,Student loan,4,4.0,0.0,Stable
+2014-01-01,Student loan,4,4.166666666666667,-4.000000000000007,Stable
+2014-02-01,Student loan,4,4.0,0.0,Stable
+2014-03-01,Student loan,3,4.166666666666667,-28.000000000000004,Decreasing
+2014-04-01,Student loan,6,4.166666666666667,43.999999999999986,Moderate growth
+2014-05-01,Student loan,8,4.333333333333333,84.61538461538463,High growth
+2014-06-01,Student loan,1,4.833333333333333,-79.3103448275862,Decreasing
+2014-07-01,Student loan,7,4.333333333333333,61.538461538461554,High growth
+2014-08-01,Student loan,4,4.833333333333333,-17.241379310344822,Stable
+2014-09-01,Student loan,4,4.833333333333333,-17.241379310344822,Stable
+2014-10-01,Student loan,3,5.0,-40.0,Decreasing
+2014-11-01,Student loan,3,4.5,-33.33333333333333,Decreasing
+2014-12-01,Student loan,3,3.6666666666666665,-18.18181818181818,Stable
+2015-01-01,Student loan,6,4.0,50.0,High growth
+2015-02-01,Student loan,3,3.8333333333333335,-21.73913043478261,Stable
+2015-03-01,Student loan,10,3.6666666666666665,172.72727272727275,Critical growth
+2015-04-01,Student loan,8,4.666666666666667,71.42857142857142,High growth
+2015-05-01,Student loan,5,5.5,-9.090909090909092,Stable
+2015-06-01,Student loan,1,5.833333333333333,-82.85714285714285,Decreasing
+2015-07-01,Student loan,3,5.5,-45.45454545454545,Decreasing
+2015-08-01,Student loan,4,5.0,-20.0,Stable
+2015-09-01,Student loan,2,5.166666666666667,-61.29032258064516,Decreasing
+2015-10-01,Student loan,2,3.8333333333333335,-47.82608695652174,Decreasing
+2015-11-01,Student loan,3,2.8333333333333335,5.882352941176465,Stable
+2015-12-01,Student loan,3,2.5,20.0,Stable
+2016-01-01,Student loan,4,2.8333333333333335,41.17647058823529,Moderate growth
+2016-02-01,Student loan,3,3.0,0.0,Stable
+2016-03-01,Student loan,11,2.8333333333333335,288.235294117647,Critical growth
+2016-04-01,Student loan,4,4.333333333333333,-7.692307692307685,Stable
+2016-05-01,Student loan,12,4.666666666666667,157.1428571428571,Critical growth
+2016-06-01,Student loan,7,6.166666666666667,13.513513513513509,Stable
+2016-07-01,Student loan,10,6.833333333333333,46.341463414634156,Moderate growth
+2016-08-01,Student loan,9,7.833333333333333,14.8936170212766,Stable
+2016-09-01,Student loan,11,8.833333333333334,24.528301886792445,Stable
+2016-10-01,Student loan,10,8.833333333333334,13.207547169811312,Stable
+2016-11-01,Student loan,7,9.833333333333334,-28.813559322033903,Decreasing
+2016-12-01,Student loan,7,9.0,-22.22222222222222,Stable
+2017-01-01,Student loan,67,9.0,644.4444444444445,Critical growth
+2017-02-01,Student loan,23,18.5,24.324324324324326,Stable
+2017-03-01,Student loan,18,20.833333333333332,-13.599999999999996,Stable
+2017-04-01,Student loan,18,22.0,-18.181818181818183,Stable
+2017-05-01,Student loan,11,23.333333333333332,-52.85714285714286,Decreasing
+2017-06-01,Student loan,17,24.0,-29.166666666666668,Decreasing
+2017-07-01,Student loan,8,25.666666666666668,-68.83116883116884,Decreasing
+2017-08-01,Student loan,11,15.833333333333334,-30.526315789473685,Decreasing
+2017-09-01,Student loan,10,13.833333333333334,-27.710843373493976,Decreasing
+2017-10-01,Student loan,9,12.5,-28.000000000000004,Decreasing
+2017-11-01,Student loan,7,11.0,-36.36363636363637,Decreasing
+2017-12-01,Student loan,5,10.333333333333334,-51.61290322580645,Decreasing
+2018-01-01,Student loan,10,8.333333333333334,19.999999999999993,Stable
+2018-02-01,Student loan,8,8.666666666666666,-7.692307692307685,Stable
+2018-03-01,Student loan,8,8.166666666666666,-2.040816326530605,Stable
+2018-04-01,Student loan,11,7.833333333333333,40.42553191489362,Moderate growth
+2018-05-01,Student loan,11,8.166666666666666,34.69387755102042,Moderate growth
+2018-06-01,Student loan,5,8.833333333333334,-43.39622641509434,Decreasing
+2018-07-01,Student loan,9,8.833333333333334,1.886792452830182,Stable
+2018-08-01,Student loan,10,8.666666666666666,15.384615384615394,Stable
+2018-09-01,Student loan,5,9.0,-44.44444444444444,Decreasing
+2018-10-01,Student loan,10,8.5,17.647058823529413,Stable
+2018-11-01,Student loan,5,8.333333333333334,-40.0,Decreasing
+2018-12-01,Student loan,3,7.333333333333333,-59.09090909090909,Decreasing
+2019-01-01,Student loan,11,7.0,57.14285714285714,High growth
+2019-02-01,Student loan,5,7.333333333333333,-31.818181818181817,Decreasing
+2019-03-01,Student loan,10,6.5,53.84615384615385,High growth
+2019-04-01,Student loan,3,7.333333333333333,-59.09090909090909,Decreasing
+2019-05-01,Student loan,8,6.166666666666667,29.729729729729726,Moderate growth
+2019-06-01,Student loan,8,6.666666666666667,19.999999999999996,Stable
+2019-07-01,Student loan,7,7.5,-6.666666666666667,Stable
+2019-08-01,Student loan,4,6.833333333333333,-41.46341463414634,Decreasing
+2019-09-01,Student loan,3,6.666666666666667,-55.00000000000001,Decreasing
+2019-10-01,Student loan,3,5.5,-45.45454545454545,Decreasing
+2019-11-01,Student loan,5,5.5,-9.090909090909092,Stable
+2019-12-01,Student loan,3,5.0,-40.0,Decreasing
+2020-01-01,Student loan,6,4.166666666666667,43.999999999999986,Moderate growth
+2020-02-01,Student loan,5,4.0,25.0,Moderate growth
+2020-03-01,Student loan,11,4.166666666666667,164.0,Critical growth
+2020-04-01,Student loan,5,5.5,-9.090909090909092,Stable
+2020-05-01,Student loan,2,5.833333333333333,-65.71428571428571,Decreasing
+2020-06-01,Student loan,6,5.333333333333333,12.500000000000005,Stable
+2020-07-01,Student loan,3,5.833333333333333,-48.57142857142857,Decreasing
+2020-08-01,Student loan,4,5.333333333333333,-24.999999999999993,Stable
+2020-09-01,Student loan,3,5.166666666666667,-41.935483870967744,Decreasing
+2020-10-01,Student loan,5,3.8333333333333335,30.43478260869565,Moderate growth
+2020-11-01,Student loan,4,3.8333333333333335,4.347826086956517,Stable
+2020-12-01,Student loan,6,4.166666666666667,43.999999999999986,Moderate growth
+2021-01-01,Student loan,7,4.166666666666667,67.99999999999999,High growth
+2021-02-01,Student loan,2,4.833333333333333,-58.620689655172406,Decreasing
+2021-03-01,Student loan,4,4.5,-11.11111111111111,Stable
+2021-04-01,Student loan,6,4.666666666666667,28.571428571428566,Moderate growth
+2021-05-01,Student loan,3,4.833333333333333,-37.93103448275862,Decreasing
+2021-06-01,Student loan,4,4.666666666666667,-14.28571428571429,Stable
+2021-07-01,Student loan,3,4.333333333333333,-30.769230769230766,Decreasing
+2021-09-01,Student loan,4,3.6666666666666665,9.090909090909095,Stable
+2021-10-01,Student loan,5,4.0,25.0,Moderate growth
+2021-11-01,Student loan,2,4.166666666666667,-52.0,Decreasing
+2021-12-01,Student loan,5,3.5,42.857142857142854,Moderate growth
+2022-01-01,Student loan,9,3.8333333333333335,134.78260869565216,Critical growth
+2022-02-01,Student loan,3,4.666666666666667,-35.71428571428572,Decreasing
+2022-03-01,Student loan,7,4.666666666666667,49.999999999999986,Moderate growth
+2022-04-01,Student loan,11,5.166666666666667,112.9032258064516,Critical growth
+2022-05-01,Student loan,5,6.166666666666667,-18.918918918918923,Stable
+2022-06-01,Student loan,4,6.666666666666667,-40.0,Decreasing
+2022-07-01,Student loan,6,6.5,-7.6923076923076925,Stable
+2022-08-01,Student loan,6,6.0,0.0,Stable
+2022-09-01,Student loan,12,6.5,84.61538461538461,High growth
+2022-10-01,Student loan,19,7.333333333333333,159.0909090909091,Critical growth
+2022-11-01,Student loan,10,8.666666666666666,15.384615384615394,Stable
+2022-12-01,Student loan,6,9.5,-36.84210526315789,Decreasing
+2023-01-01,Student loan,4,9.833333333333334,-59.32203389830508,Decreasing
+2023-02-01,Student loan,9,9.5,-5.263157894736842,Stable
+2023-03-01,Student loan,10,10.0,0.0,Stable
+2023-04-01,Student loan,3,9.666666666666666,-68.9655172413793,Decreasing
+2023-05-01,Student loan,9,7.0,28.57142857142857,Moderate growth
+2023-06-01,Student loan,4,6.833333333333333,-41.46341463414634,Decreasing
+2023-07-01,Student loan,7,6.5,7.6923076923076925,Stable
+2023-08-01,Student loan,10,7.0,42.857142857142854,Moderate growth
+2023-09-01,Student loan,10,7.166666666666667,39.534883720930225,Moderate growth
+2023-10-01,Student loan,25,7.166666666666667,248.83720930232553,Critical growth
+2023-11-01,Student loan,15,10.833333333333334,38.46153846153845,Moderate growth
+2023-12-01,Student loan,15,11.833333333333334,26.76056338028168,Moderate growth
+2024-01-01,Student loan,15,13.666666666666666,9.756097560975615,Stable
+2024-02-01,Student loan,16,15.0,6.666666666666667,Stable
+2024-03-01,Student loan,17,16.0,6.25,Stable
+2024-04-01,Student loan,22,17.166666666666668,28.155339805825236,Moderate growth
+2024-05-01,Student loan,18,16.666666666666668,7.999999999999992,Stable
+2024-06-01,Student loan,18,17.166666666666668,4.854368932038828,Stable
+2024-07-01,Student loan,5,17.666666666666668,-71.69811320754718,Decreasing
+2024-08-01,Student loan,6,16.0,-62.5,Decreasing
+2024-09-01,Student loan,23,14.333333333333334,60.46511627906976,High growth
+2024-10-01,Student loan,12,15.333333333333334,-21.73913043478261,Stable
+2024-11-01,Student loan,8,13.666666666666666,-41.46341463414634,Decreasing
+2024-12-01,Student loan,15,12.0,25.0,Moderate growth
+2025-01-01,Student loan,20,11.5,73.91304347826086,High growth
+2025-02-01,Student loan,19,14.0,35.714285714285715,Moderate growth
+2025-03-01,Student loan,47,16.166666666666668,190.72164948453607,Critical growth
+2025-04-01,Student loan,27,20.166666666666668,33.88429752066115,Moderate growth
+2025-05-01,Student loan,24,22.666666666666668,5.882352941176465,Stable
+2025-06-01,Student loan,18,25.333333333333332,-28.947368421052627,Decreasing
+2025-07-01,Student loan,10,25.833333333333332,-61.29032258064516,Decreasing
+2025-08-01,Student loan,15,24.166666666666668,-37.931034482758626,Decreasing
+2025-09-01,Student loan,22,23.5,-6.382978723404255,Stable
+2025-10-01,Student loan,22,19.333333333333332,13.79310344827587,Stable
+2025-11-01,Student loan,11,18.5,-40.54054054054054,Decreasing
+2025-12-01,Student loan,19,16.333333333333332,16.32653061224491,Stable
+2026-01-01,Student loan,31,16.5,87.87878787878788,High growth
+2026-02-01,Student loan,17,20.0,-15.0,Stable
+2026-03-01,Student loan,25,20.333333333333332,22.950819672131153,Stable
+2026-04-01,Student loan,15,20.833333333333332,-27.999999999999996,Decreasing
+2026-05-01,Student loan,3,19.666666666666668,-84.7457627118644,Decreasing
+2026-06-01,Student loan,4,18.333333333333332,-78.18181818181819,Decreasing
+2017-05-01,Vehicle loan or lease,3,,,Insufficient history
+2017-06-01,Vehicle loan or lease,6,,,Insufficient history
+2017-07-01,Vehicle loan or lease,4,,,Insufficient history
+2017-08-01,Vehicle loan or lease,6,4.333333333333333,38.46153846153847,Moderate growth
+2017-09-01,Vehicle loan or lease,7,4.75,47.368421052631575,Moderate growth
+2017-10-01,Vehicle loan or lease,4,5.2,-23.076923076923077,Stable
+2017-11-01,Vehicle loan or lease,8,5.0,60.0,High growth
+2017-12-01,Vehicle loan or lease,8,5.833333333333333,37.14285714285715,Moderate growth
+2018-01-01,Vehicle loan or lease,7,6.166666666666667,13.513513513513509,Stable
+2018-02-01,Vehicle loan or lease,5,6.666666666666667,-25.000000000000007,Decreasing
+2018-03-01,Vehicle loan or lease,9,6.5,38.46153846153847,Moderate growth
+2018-04-01,Vehicle loan or lease,8,6.833333333333333,17.07317073170732,Stable
+2018-05-01,Vehicle loan or lease,9,7.5,20.0,Stable
+2018-06-01,Vehicle loan or lease,4,7.666666666666667,-47.82608695652174,Decreasing
+2018-07-01,Vehicle loan or lease,9,7.0,28.57142857142857,Moderate growth
+2018-08-01,Vehicle loan or lease,6,7.333333333333333,-18.18181818181818,Stable
+2018-10-01,Vehicle loan or lease,8,7.5,6.666666666666667,Stable
+2018-11-01,Vehicle loan or lease,4,7.333333333333333,-45.45454545454545,Decreasing
+2018-12-01,Vehicle loan or lease,4,6.666666666666667,-40.0,Decreasing
+2019-01-01,Vehicle loan or lease,4,5.833333333333333,-31.428571428571423,Decreasing
+2019-02-01,Vehicle loan or lease,4,5.833333333333333,-31.428571428571423,Decreasing
+2019-03-01,Vehicle loan or lease,8,5.0,60.0,High growth
+2019-04-01,Vehicle loan or lease,5,5.333333333333333,-6.249999999999995,Stable
+2019-05-01,Vehicle loan or lease,7,4.833333333333333,44.827586206896555,Moderate growth
+2019-06-01,Vehicle loan or lease,3,5.333333333333333,-43.74999999999999,Decreasing
+2019-07-01,Vehicle loan or lease,8,5.166666666666667,54.83870967741935,High growth
+2019-08-01,Vehicle loan or lease,3,5.833333333333333,-48.57142857142857,Decreasing
+2019-09-01,Vehicle loan or lease,6,5.666666666666667,5.882352941176465,Stable
+2019-10-01,Vehicle loan or lease,6,5.333333333333333,12.500000000000005,Stable
+2019-11-01,Vehicle loan or lease,5,5.5,-9.090909090909092,Stable
+2019-12-01,Vehicle loan or lease,6,5.166666666666667,16.12903225806451,Stable
+2020-01-01,Vehicle loan or lease,4,5.666666666666667,-29.411764705882355,Decreasing
+2020-02-01,Vehicle loan or lease,6,5.0,20.0,Stable
+2020-03-01,Vehicle loan or lease,2,5.5,-63.63636363636363,Decreasing
+2020-04-01,Vehicle loan or lease,5,4.833333333333333,3.4482758620689715,Stable
+2020-05-01,Vehicle loan or lease,4,4.666666666666667,-14.28571428571429,Stable
+2020-06-01,Vehicle loan or lease,8,4.5,77.77777777777779,High growth
+2020-07-01,Vehicle loan or lease,8,4.833333333333333,65.51724137931035,High growth
+2020-08-01,Vehicle loan or lease,7,5.5,27.27272727272727,Moderate growth
+2020-09-01,Vehicle loan or lease,6,5.666666666666667,5.882352941176465,Stable
+2020-10-01,Vehicle loan or lease,7,6.333333333333333,10.526315789473689,Stable
+2020-11-01,Vehicle loan or lease,6,6.666666666666667,-10.000000000000004,Stable
+2020-12-01,Vehicle loan or lease,4,7.0,-42.857142857142854,Decreasing
+2021-01-01,Vehicle loan or lease,11,6.333333333333333,73.6842105263158,High growth
+2021-02-01,Vehicle loan or lease,4,6.833333333333333,-41.46341463414634,Decreasing
+2021-03-01,Vehicle loan or lease,13,6.333333333333333,105.26315789473686,Critical growth
+2021-04-01,Vehicle loan or lease,6,7.5,-20.0,Stable
+2021-05-01,Vehicle loan or lease,5,7.333333333333333,-31.818181818181817,Decreasing
+2021-06-01,Vehicle loan or lease,4,7.166666666666667,-44.18604651162791,Decreasing
+2021-07-01,Vehicle loan or lease,7,7.166666666666667,-2.3255813953488413,Stable
+2021-08-01,Vehicle loan or lease,3,6.5,-53.84615384615385,Decreasing
+2021-09-01,Vehicle loan or lease,12,6.333333333333333,89.47368421052633,High growth
+2021-10-01,Vehicle loan or lease,11,6.166666666666667,78.37837837837837,High growth
+2021-11-01,Vehicle loan or lease,11,7.0,57.14285714285714,High growth
+2021-12-01,Vehicle loan or lease,8,8.0,0.0,Stable
+2022-01-01,Vehicle loan or lease,12,8.666666666666666,38.46153846153847,Moderate growth
+2022-02-01,Vehicle loan or lease,12,9.5,26.31578947368421,Moderate growth
+2022-03-01,Vehicle loan or lease,9,11.0,-18.181818181818183,Stable
+2022-04-01,Vehicle loan or lease,8,10.5,-23.809523809523807,Stable
+2022-05-01,Vehicle loan or lease,6,10.0,-40.0,Decreasing
+2022-06-01,Vehicle loan or lease,9,9.166666666666666,-1.818181818181812,Stable
+2022-07-01,Vehicle loan or lease,9,9.333333333333334,-3.5714285714285774,Stable
+2022-08-01,Vehicle loan or lease,4,8.833333333333334,-54.71698113207547,Decreasing
+2022-09-01,Vehicle loan or lease,2,7.5,-73.33333333333333,Decreasing
+2022-10-01,Vehicle loan or lease,11,6.333333333333333,73.6842105263158,High growth
+2022-11-01,Vehicle loan or lease,13,6.833333333333333,90.24390243902441,High growth
+2022-12-01,Vehicle loan or lease,6,8.0,-25.0,Decreasing
+2023-01-01,Vehicle loan or lease,15,7.5,100.0,Critical growth
+2023-02-01,Vehicle loan or lease,12,8.5,41.17647058823529,Moderate growth
+2023-03-01,Vehicle loan or lease,15,9.833333333333334,52.542372881355924,High growth
+2023-04-01,Vehicle loan or lease,14,12.0,16.666666666666664,Stable
+2023-05-01,Vehicle loan or lease,12,12.5,-4.0,Stable
+2023-06-01,Vehicle loan or lease,8,12.333333333333334,-35.13513513513514,Decreasing
+2023-07-01,Vehicle loan or lease,7,12.666666666666666,-44.73684210526315,Decreasing
+2023-08-01,Vehicle loan or lease,15,11.333333333333334,32.35294117647058,Moderate growth
+2023-09-01,Vehicle loan or lease,13,11.833333333333334,9.85915492957746,Stable
+2023-10-01,Vehicle loan or lease,9,11.5,-21.73913043478261,Stable
+2023-11-01,Vehicle loan or lease,10,10.666666666666666,-6.249999999999995,Stable
+2023-12-01,Vehicle loan or lease,7,10.333333333333334,-32.25806451612904,Decreasing
+2024-01-01,Vehicle loan or lease,9,10.166666666666666,-11.475409836065568,Stable
+2024-02-01,Vehicle loan or lease,11,10.5,4.761904761904762,Stable
+2024-03-01,Vehicle loan or lease,16,9.833333333333334,62.71186440677965,High growth
+2024-04-01,Vehicle loan or lease,15,10.333333333333334,45.16129032258064,Moderate growth
+2024-05-01,Vehicle loan or lease,10,11.333333333333334,-11.764705882352946,Stable
+2024-06-01,Vehicle loan or lease,8,11.333333333333334,-29.411764705882355,Decreasing
+2024-07-01,Vehicle loan or lease,13,11.5,13.043478260869565,Stable
+2024-08-01,Vehicle loan or lease,14,12.166666666666666,15.068493150684937,Stable
+2024-09-01,Vehicle loan or lease,10,12.666666666666666,-21.052631578947363,Stable
+2024-10-01,Vehicle loan or lease,14,11.666666666666666,20.000000000000007,Stable
+2024-11-01,Vehicle loan or lease,11,11.5,-4.3478260869565215,Stable
+2024-12-01,Vehicle loan or lease,21,11.666666666666666,80.0,High growth
+2025-01-01,Vehicle loan or lease,15,13.833333333333334,8.43373493975903,Stable
+2025-02-01,Vehicle loan or lease,16,14.166666666666666,12.941176470588239,Stable
+2025-03-01,Vehicle loan or lease,9,14.5,-37.93103448275862,Decreasing
+2025-04-01,Vehicle loan or lease,12,14.333333333333334,-16.279069767441865,Stable
+2025-05-01,Vehicle loan or lease,21,14.0,50.0,High growth
+2025-06-01,Vehicle loan or lease,17,15.666666666666666,8.510638297872344,Stable
+2025-07-01,Vehicle loan or lease,19,15.0,26.666666666666668,Moderate growth
+2025-08-01,Vehicle loan or lease,21,15.666666666666666,34.04255319148937,Moderate growth
+2025-09-01,Vehicle loan or lease,14,16.5,-15.151515151515152,Stable
+2025-10-01,Vehicle loan or lease,19,17.333333333333332,9.615384615384622,Stable
+2025-11-01,Vehicle loan or lease,25,18.5,35.13513513513514,Moderate growth
+2025-12-01,Vehicle loan or lease,23,19.166666666666668,19.999999999999993,Stable
+2026-01-01,Vehicle loan or lease,29,20.166666666666668,43.801652892561975,Moderate growth
+2026-02-01,Vehicle loan or lease,17,21.833333333333332,-22.137404580152666,Stable
+2026-03-01,Vehicle loan or lease,18,21.166666666666668,-14.960629921259846,Stable
+2026-04-01,Vehicle loan or lease,7,21.833333333333332,-67.93893129770993,Decreasing
+2026-05-01,Vehicle loan or lease,5,19.833333333333332,-74.78991596638656,Decreasing
+2026-06-01,Vehicle loan or lease,2,16.5,-87.87878787878788,Decreasing
