@@ -2,14 +2,14 @@ Month,Company,Complaint_count,Untimely_count,Untimely_rate,Previous_6_month_aver
 2026-06-01,Resurgent Capital Services L.P.,4077,0,0.0,2309.0,154.40854898612287,76.57,11.45,13854.0,0.0,0.0,0.0,0.52,100.0,76.57,91.67,0.0,0.0,77.06,Critical,1,"unusual complaint-volume spike, rapid complaint growth"
 2026-06-01,"Affirm Holdings, Inc",1094,0,0.0,749.0,49.80762993759065,46.06,6.93,4494.0,1.0,0.02,-0.02,0.14,100.0,46.06,63.54,0.02,0.4,62.46,High,2,"unusual complaint-volume spike, moderate complaint growth"
 2026-06-01,Experian Information Solutions Inc.,226785,0,0.0,155599.5,20550.68616615997,45.75,3.46,933597.0,37.0,0.0,-0.0,28.78,69.2,45.75,97.92,0.0,0.0,60.14,High,3,"unusual complaint-volume spike, moderate complaint growth, very large share of all complaints"
-2026-06-01,CAPITAL ONE FINANCIAL CORPORATION,3997,0,0.0,2975.33,248.1754755544297,34.34,4.12,17852.0,0.0,0.0,0.0,0.51,82.4,34.34,89.58,0.0,0.0,59.82,High,4,"unusual complaint-volume spike, moderate complaint growth"
-2026-06-01,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",250013,0,0.0,183458.5,28774.8206162958,36.28,2.31,1100751.0,0.0,0.0,0.0,31.72,46.2,36.28,100.0,0.0,0.0,50.24,High,5,"moderately unusual complaint volume, moderate complaint growth, very large share of all complaints"
+2026-06-01,CAPITAL ONE FINANCIAL CORPORATION,3997,0,0.0,2975.33,248.17547555442974,34.34,4.12,17852.0,0.0,0.0,0.0,0.51,82.4,34.34,89.58,0.0,0.0,59.82,High,4,"unusual complaint-volume spike, moderate complaint growth"
+2026-06-01,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",250013,0,0.0,183458.5,28774.820616295798,36.28,2.31,1100751.0,0.0,0.0,0.0,31.72,46.2,36.28,100.0,0.0,0.0,50.24,High,5,"moderately unusual complaint volume, moderate complaint growth, very large share of all complaints"
 2026-06-01,"EQUIFAX, INC.",195317,0,0.0,160756.33,11788.949430151391,21.5,2.93,964538.0,0.0,0.0,0.0,24.78,58.6,21.5,95.83,0.0,0.0,49.84,Moderate,6,"moderately unusual complaint volume, very large share of all complaints"
 2026-06-01,"CBC Companies, Inc.",4564,0,0.0,2820.67,2704.8770520426,61.81,0.64,16924.0,0.0,0.0,0.0,0.58,12.8,61.81,93.75,0.0,0.0,43.37,Moderate,7,rapid complaint growth
 2026-06-01,SYNCHRONY FINANCIAL,1442,0,0.0,1553.0,89.44271909999142,-7.15,-1.24,9318.0,460.0,4.94,-4.94,0.18,0.0,0.0,69.79,4.94,98.8,32.27,Moderate,8,elevated untimely-response rate
 2026-06-01,Chime Financial Inc,1179,0,0.0,1019.67,96.79807160613616,15.63,1.65,6118.0,1.0,0.02,-0.02,0.15,33.0,15.63,66.67,0.02,0.4,32.18,Moderate,9,multiple smaller monitoring indicators
 2026-06-01,MOHELA,857,2,0.23,823.33,101.99934640313464,4.09,0.33,4940.0,3523.0,71.32,-71.08,0.11,6.6,4.09,54.17,71.32,100.0,31.87,Moderate,10,very high untimely-response rate
-2026-06-01,ENCORE CAPITAL GROUP INC.,2321,0,0.0,2181.0,212.9835674412456,6.42,0.66,13086.0,0.0,0.0,0.0,0.29,13.2,6.42,81.25,0.0,0.0,26.54,Moderate,11,multiple smaller monitoring indicators
+2026-06-01,ENCORE CAPITAL GROUP INC.,2321,0,0.0,2181.0,212.98356744124558,6.42,0.66,13086.0,0.0,0.0,0.0,0.29,13.2,6.42,81.25,0.0,0.0,26.54,Moderate,11,multiple smaller monitoring indicators
 2026-06-01,"Paypal Holdings, Inc",1138,0,0.0,1038.0,105.7676699185529,9.63,0.95,6228.0,1.0,0.02,-0.02,0.14,19.0,9.63,63.54,0.02,0.4,25.0,Moderate,12,multiple smaller monitoring indicators
 2026-06-01,LEXISNEXIS,2984,12,0.4,3048.33,641.6103698247599,-2.11,-0.1,18290.0,165.0,0.9,-0.5,0.38,0.0,0.0,87.5,0.9,18.0,24.58,Low,13,multiple smaller monitoring indicators
 2026-06-01,U.S. BANCORP,670,0,0.0,617.17,34.17260111063623,8.56,1.55,3703.0,0.0,0.0,0.0,0.09,31.0,8.56,45.83,0.0,0.0,24.45,Low,14,multiple smaller monitoring indicators
@@ -21,7 +21,7 @@ Month,Company,Complaint_count,Untimely_count,Untimely_rate,Previous_6_month_aver
 2026-06-01,"BANK OF AMERICA, NATIONAL ASSOCIATION",2146,0,0.0,2166.5,155.8111035837947,-0.95,-0.13,12999.0,112.0,0.86,-0.86,0.27,0.0,0.0,78.12,0.86,17.2,22.11,Low,20,multiple smaller monitoring indicators
 2026-06-01,Servicer under contract with Federal Student Aid,514,497,96.69,531.33,207.1431067321977,-3.26,-0.08,3188.0,3173.0,99.53,-2.84,0.07,0.0,0.0,28.12,99.53,100.0,22.03,Low,21,very high untimely-response rate
 2026-06-01,"Kriya Capital, LLC",839,0,0.0,747.0,119.17214439624722,12.32,0.77,4482.0,0.0,0.0,0.0,0.11,15.4,12.32,54.17,0.0,0.0,22.01,Low,22,multiple smaller monitoring indicators
-2026-06-01,"CITIBANK, N.A.",2126,0,0.0,2098.0,114.89125293076152,1.33,0.24,12588.0,0.0,0.0,0.0,0.27,4.8,1.33,78.12,0.0,0.0,21.54,Low,23,multiple smaller monitoring indicators
+2026-06-01,"CITIBANK, N.A.",2126,0,0.0,2098.0,114.89125293076151,1.33,0.24,12588.0,0.0,0.0,0.0,0.27,4.8,1.33,78.12,0.0,0.0,21.54,Low,23,multiple smaller monitoring indicators
 2026-06-01,AMERICAN EXPRESS COMPANY,995,0,0.0,1056.0,62.58434308994608,-5.78,-0.97,6336.0,123.0,1.94,-1.94,0.13,0.0,0.0,59.38,1.94,38.8,20.66,Low,24,elevated untimely-response rate
 2026-06-01,WELLS FARGO & COMPANY,1912,1,0.05,2124.33,171.5769992355234,-10.0,-1.24,12746.0,2.0,0.02,0.04,0.24,0.0,0.0,72.92,0.05,1.0,18.38,Low,25,multiple smaller monitoring indicators
 2026-06-01,TRUIST FINANCIAL CORPORATION,553,0,0.0,514.17,35.01666270030128,7.55,1.11,3085.0,2.0,0.06,-0.06,0.07,22.2,7.55,28.12,0.06,1.2,16.87,Low,26,multiple smaller monitoring indicators
@@ -31,7 +31,7 @@ Month,Company,Complaint_count,Untimely_count,Untimely_rate,Previous_6_month_aver
 2026-06-01,"Bread Financial Holdings, Inc.",1049,0,0.0,1058.17,83.75300989616242,-0.87,-0.11,6349.0,0.0,0.0,0.0,0.13,0.0,0.0,59.38,0.0,0.0,14.84,Low,30,multiple smaller monitoring indicators
 2026-06-01,PNC Bank N.A.,362,0,0.0,323.33,31.60801586095948,11.96,1.22,1940.0,0.0,0.0,0.0,0.05,24.4,11.96,11.46,0.0,0.0,14.39,Low,31,multiple smaller monitoring indicators
 2026-06-01,"Spring Oaks Capital, LLC",560,0,0.0,513.33,72.11842113265284,9.09,0.65,3080.0,0.0,0.0,0.0,0.07,13.0,9.09,28.12,0.0,0.0,13.85,Low,32,multiple smaller monitoring indicators
-2026-06-01,NAVY FEDERAL CREDIT UNION,895,0,0.0,985.67,49.05371205797445,-9.2,-1.85,5914.0,0.0,0.0,0.0,0.11,0.0,0.0,54.17,0.0,0.0,13.54,Low,33,multiple smaller monitoring indicators
+2026-06-01,NAVY FEDERAL CREDIT UNION,895,0,0.0,985.67,49.053712057974444,-9.2,-1.85,5914.0,0.0,0.0,0.0,0.11,0.0,0.0,54.17,0.0,0.0,13.54,Low,33,multiple smaller monitoring indicators
 2026-06-01,"SANTANDER HOLDINGS USA, INC.",652,0,0.0,635.67,61.102100345787214,2.57,0.27,3814.0,0.0,0.0,0.0,0.08,5.4,2.57,40.62,0.0,0.0,12.69,Low,34,multiple smaller monitoring indicators
 2026-06-01,"CCS Financial Services, Inc.",799,0,0.0,1079.83,178.2160673639349,-26.01,-1.58,6479.0,6.0,0.09,-0.09,0.1,0.0,0.0,48.96,0.09,1.8,12.51,Low,35,multiple smaller monitoring indicators
 2026-06-01,"National Credit Systems,Inc.",656,0,0.0,729.17,83.01184654413258,-10.03,-0.88,4375.0,7.0,0.16,-0.16,0.08,0.0,0.0,40.62,0.16,3.2,10.64,Low,36,multiple smaller monitoring indicators
@@ -45,5 +45,5 @@ Month,Company,Complaint_count,Untimely_count,Untimely_rate,Previous_6_month_aver
 2026-06-01,BARCLAYS BANK DELAWARE,493,0,0.0,507.5,46.90309158253867,-2.86,-0.31,3045.0,0.0,0.0,0.0,0.06,0.0,0.0,16.67,0.0,0.0,4.17,Low,44,multiple smaller monitoring indicators
 2026-06-01,CREDIT ACCEPTANCE CORPORATION,258,1,0.39,319.33,35.98703470232948,-19.21,-1.7,1916.0,3.0,0.16,0.23,0.03,0.0,0.0,2.08,0.39,7.8,1.69,Low,45,multiple smaller monitoring indicators
 2026-06-01,OneMain Finance Corporation,347,0,0.0,367.83,30.960727812289125,-5.66,-0.67,2207.0,0.0,0.0,0.0,0.04,0.0,0.0,6.25,0.0,0.0,1.56,Low,46,multiple smaller monitoring indicators
-2026-06-01,"Westlake Services, LLC",348,0,0.0,429.33,51.66688171998256,-18.94,-1.57,2576.0,0.0,0.0,0.0,0.04,0.0,0.0,6.25,0.0,0.0,1.56,Low,47,multiple smaller monitoring indicators
+2026-06-01,"Westlake Services, LLC",348,0,0.0,429.33,51.666881719982555,-18.94,-1.57,2576.0,0.0,0.0,0.0,0.04,0.0,0.0,6.25,0.0,0.0,1.56,Low,47,multiple smaller monitoring indicators
 2026-06-01,"Maximus Federal Services, Inc.",325,0,0.0,398.0,22.618576436195028,-18.34,-3.23,2388.0,0.0,0.0,0.0,0.04,0.0,0.0,6.25,0.0,0.0,1.56,Low,48,multiple smaller monitoring indicators
